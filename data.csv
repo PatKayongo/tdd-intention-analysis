@@ -1,0 +1,780 @@
+OrganizationVsSelf,OrganizationVsSelf2,TDDPermitted,InHouseVsConsultancy,IndividualVsManyProjects,CreatingVsMaintaining,YearsExperience,PracticeTDD,WantTDD,Attitude,AttitudeQuality1,AttitudeTime,AttitudeQuality2,AttitudeMaintainability,AttitudeEfficiency,AttitudeChangeability,SubjectiveNorm1,SubjectiveNorm2,SubjectiveNormTime,SubjectiveNormMaintainability,SubjectiveNormQuality,SubjectiveNormChangeability,TeamTDD,UnitTestDifficulty,TDDDifficulty,TDDExperience
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,6,7,2,6,6,4,6,4,6,4,7,7,7,7,3,4,4
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,7,7,2,5,7,6,7,7,4,1,7,6,6,7,5,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,6,No,No,5,5,6,5,6,3,5,4,5,5,5,6,6,6,7,7,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,6,No,Yes,5,6,5,5,6,4,6,3,5,6,3,4,3,1,5,5,3
+Organization,,Yes,Software Development Consultancy,Individual product,Both,8,No,Yes,6,6,4,6,6,2,4,4,6,6,4,4,4,4,1,4,5
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,7,7,3,7,7,4,6,6,6,2,5,7,6,6,4,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,2,Yes,N/A,7,7,1,7,7,5,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,4,Yes,N/A,7,7,1,5,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,3,Yes,N/A,6,6,2,4,7,3,5,6,7,2,5,5,5,6,3,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,25,No,Yes,4,5,4,5,5,5,4,5,5,3,4,4,4,5,4,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,No,Yes,5,6,5,6,5,3,5,6,6,3,4,5,3,6,7,6,3
+Organization,,Yes,In-house software developer,Many projects,Both,12,No,N/A,4,5,7,3,5,3,4,5,5,7,5,4,4,3,1,7,7
+Organization,,Yes,In-house software developer,Many projects,Both,8,No,Yes,7,7,4,7,7,7,7,3,5,5,6,6,6,1,1,1,5
+Organization,,Yes,In-house software developer,Many projects,Both,3,No,Yes,6,6,1,7,6,5,6,3,6,3,5,5,5,6,5,7,1
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,8,Yes,N/A,6,7,4,5,4,5,6,4,4,6,6,5,5,6,3,2,6
+Organization,,Yes,In-house software developer,Many projects,Both,10,No,N/A,5,6,3,4,5,6,6,4,7,4,5,4,5,4,3,5,4
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,7,7,3,6,6,4,6,5,6,5,5,6,4,5,4,4,5
+Organization,,Yes,N/A,Many projects,Creating new greenfield applications,15,No,Yes,5,5,4,4,6,3,5,4,5,3,4,5,5,5,2,2,5
+Organization,,No,Software Development Consultancy,Individual product,Both,15,No,No,4,5,7,4,3,2,1,2,3,6,2,3,2,2,4,4,4
+Organization,,N/A,In-house software developer,Many projects,Maintaining existing applications,4,No,Yes,5,5,4,5,5,5,5,4,5,4,5,5,5,5,2,3,2
+Organization,,Yes,Software Development Consultancy,Many projects,Both,11,No,Yes,5,6,5,5,5,5,3,4,4,5,4,4,4,5,3,3,4
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,1,Yes,N/A,7,7,1,7,7,7,7,7,4,1,7,7,7,5,4,4,4
+Organization,,No,In-house software developer,Many projects,Both,9,No,Yes,4,4,7,4,4,4,4,1,7,7,1,4,1,1,4,4,1
+,Unemployed,N/A,N/A,Many projects,Creating new greenfield applications,3,No,No,3,5,5,5,5,2,2,4,4,5,5,5,3,4,4,6,5
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,6,No,Yes,7,6,3,6,6,6,6,6,7,6,6,6,5,6,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,No,Yes,6,6,4,6,6,4,5,2,5,5,4,5,5,2,7,7,1
+Organization,,Yes,In-house software developer,Many projects,Both,2,No,Yes,7,7,6,7,7,7,4,3,7,3,6,6,5,5,3,5,1
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,3,Yes,N/A,7,7,3,7,7,4,7,7,5,2,6,6,6,7,3,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,N/A,6,6,4,5,6,6,6,2,6,5,4,4,4,5,2,5,5
+Myself,,N/A,N/A,Many projects,Both,50,Yes,N/A,7,7,1,7,7,7,7,7,4,1,7,7,7,7,4,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,N/A,7,7,2,5,6,5,6,6,6,1,7,6,6,5,3,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,6,6,6,7,7,7,1,7,6,6,7,4,1,7
+Myself,,Yes,Software Development Consultancy,Many projects,Both,14,Yes,N/A,6,6,3,6,5,4,5,5,5,1,4,5,5,6,5,3,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,7,Yes,N/A,6,6,2,6,6,5,6,7,5,1,7,7,7,7,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,5,Yes,N/A,7,7,1,6,6,4,6,4,7,1,4,4,4,4,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,2,6,7,5,7,6,7,1,7,7,7,7,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,6,6,3,6,4,5,3,5,5,2,6,6,6,4,1,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,6,Yes,N/A,6,6,5,7,5,5,5,4,7,4,6,6,6,6,2,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,12,Yes,N/A,5,6,4,6,4,5,5,3,6,4,4,4,4,5,2,2,3
+Organization,,Yes,Software Development Consultancy,Many projects,Both,15,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,1,Yes,N/A,7,7,3,7,7,7,7,7,7,1,7,6,7,4,5,6,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,10,Yes,Yes,7,7,1,7,7,7,7,5,5,2,4,4,4,1,4,5,4
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,15,Yes,N/A,7,7,1,6,7,7,7,4,3,3,5,4,4,2,1,1,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,12,Yes,N/A,5,6,4,6,6,4,7,2,5,6,6,5,6,5,4,5,4
+Organization,,Yes,In-house software developer,Individual product,Both,25,Yes,N/A,6,6,4,5,5,4,5,5,5,3,5,5,5,3,5,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,5,Yes,N/A,5,6,2,5,6,4,5,6,6,1,6,5,5,5,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,Yes,7,7,1,6,7,7,7,7,6,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,23,Yes,N/A,7,7,2,7,7,6,6,6,7,4,5,6,6,5,1,7,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,11,Yes,N/A,6,6,3,6,6,5,5,3,4,4,4,4,4,3,5,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,2,6,6,6,6,4,6,4,4,5,5,4,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,4,4,6,5,6,4,5,1,4,4,4,6,3,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,3,Yes,N/A,5,5,3,4,4,5,4,4,5,3,5,3,4,5,4,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,6,6,2,6,6,6,6,6,6,1,6,6,6,6,4,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,No,No,4,4,2,4,5,4,4,4,5,4,4,4,5,1,4,5,5
+Organization,,No,In-house software developer,Many projects,Maintaining existing applications,3,No,Yes,6,7,3,7,5,3,4,1,7,6,6,4,4,1,5,6,1
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,10,No,Yes,7,7,2,6,5,4,6,3,6,4,4,4,4,4,3,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,30,Yes,N/A,7,7,4,7,7,5,7,7,7,1,7,6,6,7,1,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,12,Yes,N/A,7,7,3,6,4,4,4,5,7,6,5,6,3,6,5,6,7
+Organization,,No,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,N/A,5,5,3,5,1,4,6,3,6,4,4,4,4,5,3,3,6
+Organization,,Yes,In-house software developer,Many projects,Both,19,Yes,N/A,7,7,6,7,7,7,7,4,6,5,7,7,7,5,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,20,Yes,N/A,6,6,2,5,6,5,6,6,6,3,6,6,6,5,6,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,12,Yes,Yes,6,6,3,6,6,4,6,4,6,2,6,6,6,6,1,4,3
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,14,No,Yes,7,7,1,5,6,5,7,3,6,5,4,5,5,6,7,7,4
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,5,5,3,4,5,5,3,6,4,1,3,5,3,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,N/A,6,7,3,5,4,5,3,6,5,2,5,5,4,6,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,4,Yes,N/A,7,7,2,5,6,7,6,2,7,6,3,4,4,3,6,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,17,Yes,N/A,6,6,3,6,7,4,6,4,5,4,5,5,5,3,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,6,6,6,6,7,7,1,7,6,7,7,6,6,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,N/A,7,7,4,7,7,4,7,7,7,4,4,4,4,4,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,3,Yes,N/A,7,7,2,7,6,4,7,7,6,2,6,6,7,6,4,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,15,Yes,N/A,7,7,2,6,6,6,7,5,6,3,6,7,7,6,4,3,6
+Organization,,No,In-house software developer,Individual product,Both,11,Yes,N/A,4,4,5,3,5,2,4,2,5,4,4,4,4,1,4,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,N/A,5,5,4,5,4,3,4,5,7,2,5,5,4,6,4,4,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,7,6,3,2,5,6,7,7,6,1,6,5,6,4,7,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,3,Yes,N/A,5,5,2,5,3,3,3,5,4,2,5,5,4,5,5,3,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,10,Yes,N/A,6,6,4,6,5,4,5,4,6,5,5,5,5,4,7,7,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,7,Yes,N/A,6,6,2,6,2,5,6,6,6,4,6,6,6,6,4,5,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,10,Yes,N/A,7,7,1,7,7,6,7,1,5,5,2,3,3,1,6,6,7
+Organization,,Yes,In-house software developer,Many projects,Both,17,No,Yes,5,6,3,6,5,4,4,4,5,4,5,5,4,1,5,5,3
+Organization,,Yes,Software Development Consultancy,Many projects,Both,4,No,Yes,5,5,3,3,3,3,3,3,5,4,4,4,4,3,7,7,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,13,Yes,Yes,7,7,2,6,6,6,6,4,7,5,5,5,5,5,5,5,6
+Organization,,Yes,N/A,Many projects,Both,22,Yes,N/A,6,6,1,6,6,5,7,7,7,2,7,6,6,7,2,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,8,Yes,N/A,7,7,2,6,7,5,7,7,5,1,7,7,7,7,2,3,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,5,Yes,N/A,7,7,1,6,7,6,6,4,6,3,5,5,5,4,1,2,4
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,No,Yes,5,5,4,6,5,3,3,4,6,2,4,4,4,2,4,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,7,7,1,7,7,7,7,7,5,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,17,No,Yes,7,7,2,7,7,7,7,5,7,4,3,3,3,1,2,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,1,No,Yes,6,6,3,6,5,4,4,5,7,4,5,6,4,4,5,5,2
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,4,4,5,4,7,5,7,7,5,1,7,7,7,5,7,7,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,12,Yes,Yes,6,6,2,5,6,5,6,3,6,4,3,2,2,3,4,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,No,Yes,5,5,5,4,3,3,3,3,6,5,3,4,4,4,3,6,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,16,Yes,N/A,7,7,4,7,7,5,7,7,4,1,7,7,7,7,5,3,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,34,Yes,N/A,7,7,1,6,5,6,5,4,6,3,2,3,3,5,5,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,3,No,No,4,4,3,3,2,5,3,4,5,4,3,3,3,1,4,4,4
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,4,Yes,N/A,7,7,5,7,7,7,7,4,7,4,5,4,6,4,1,1,7
+Myself,,Yes,Software Development Consultancy,Many projects,Both,14,Yes,N/A,7,7,1,7,7,7,7,3,2,5,5,5,2,2,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,9,Yes,N/A,7,6,2,6,7,6,7,7,5,2,5,5,5,5,3,5,7
+Myself,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,15,Yes,N/A,7,7,1,7,7,5,7,7,4,1,4,7,7,4,4,5,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,3,Yes,N/A,7,7,2,6,7,6,6,6,7,1,6,7,7,6,5,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,10,Yes,N/A,6,7,4,4,4,5,5,2,7,4,3,3,3,3,3,2,5
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,5,6,4,6,4,3,3,5,4,3,5,5,5,5,3,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,7,5,3,6,7,7,7,5,7,5,3,4,5,2,6,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,7,5,2,5,7,6,7,4,6,4,4,3,4,2,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,9,Yes,N/A,7,6,2,7,7,4,7,7,7,2,7,6,7,7,3,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,12,No,No,3,3,5,4,3,3,3,5,3,4,3,5,3,5,3,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,6,6,1,5,5,5,5,3,6,2,3,3,4,4,4,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,No,Yes,7,7,3,7,5,4,5,1,6,5,4,4,4,5,3,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,5,6,7,6,1,6,1,6,5,7,5,6,2,6,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,13,No,Yes,5,5,2,7,5,6,4,3,7,5,4,4,4,5,6,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,12,Yes,Yes,6,7,3,7,7,5,6,2,5,6,6,6,5,3,2,2,7
+Organization,,N/A,In-house software developer,Many projects,Maintaining existing applications,15,Yes,N/A,6,7,3,7,7,5,7,1,7,7,2,2,2,2,2,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,Yes,6,6,3,6,7,4,7,7,6,1,7,6,7,7,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,N/A,5,5,3,4,5,4,6,5,6,1,6,6,5,5,5,3,4
+Organization,,No,In-house software developer,Many projects,Both,8,Yes,N/A,6,6,2,5,5,4,6,5,7,2,6,5,6,4,3,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,12,Yes,N/A,7,7,1,7,7,7,4,1,7,4,4,4,4,2,2,2,3
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,7,Yes,N/A,5,6,1,6,6,3,7,5,6,1,6,6,4,5,7,7,5
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,7,7,2,7,7,5,7,5,5,4,4,4,5,1,3,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,2,Yes,N/A,7,7,6,2,5,5,4,6,5,2,6,6,5,6,4,6,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,Yes,N/A,7,7,2,6,7,6,7,5,4,2,4,5,5,5,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,7,7,1,7,7,7,7,6,7,1,4,5,5,5,4,3,6
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,4,Yes,N/A,5,6,3,7,6,5,6,5,7,2,6,6,6,6,7,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,5,7,2,6,5,6,5,1,7,7,6,6,5,1,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,5,5,4,4,4,5,4,6,6,2,5,5,5,5,3,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,17,Yes,Yes,6,6,2,5,6,5,7,4,6,3,6,5,6,5,5,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,2,7,7,6,7,5,5,3,5,5,5,5,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,No,No,1,1,7,1,1,1,1,4,4,4,4,1,1,1,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,15,Yes,N/A,5,5,3,5,4,4,2,7,6,1,7,7,7,7,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,6,7,4,7,6,4,5,4,6,1,1,4,1,4,5,5,4
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,7,7,1,7,7,7,7,7,7,3,6,6,5,4,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,5,4,2,4,3,4,3,5,7,1,3,3,4,5,5,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,7,7,3,4,4,5,7,7,4,3,6,4,6,7,5,5,7
+Myself,,Yes,N/A,Many projects,Creating new greenfield applications,4,Yes,N/A,7,7,2,7,7,6,7,4,6,2,5,5,5,2,3,2,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,10,Yes,N/A,4,5,5,4,6,5,6,4,2,4,4,5,5,6,2,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,18,Yes,N/A,7,7,2,7,7,7,7,2,5,5,3,3,2,2,4,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,31,No,Yes,5,5,4,5,5,5,5,5,6,3,5,5,5,5,5,5,2
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,14,Yes,N/A,7,7,1,6,7,6,7,7,7,1,7,7,7,7,6,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,25,Yes,N/A,6,6,3,7,7,4,7,6,5,1,7,7,7,7,5,6,7
+Organization,,Yes,In-house software developer,Many projects,Both,4,No,Yes,6,6,3,6,7,6,7,4,6,3,6,6,5,1,3,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,N/A,7,7,1,5,7,5,7,7,6,1,7,5,7,6,5,4,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,11,Yes,N/A,6,6,1,6,4,5,6,7,5,1,5,6,6,7,2,2,6
+Organization,,Yes,In-house software developer,Many projects,Both,18,Yes,N/A,7,7,1,7,7,6,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,25,No,No,4,4,5,5,5,3,4,4,5,4,3,3,4,3,4,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,5,No,Yes,7,7,3,6,6,6,7,2,6,7,4,5,5,1,5,4,3
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,4,Yes,N/A,7,7,2,7,6,5,6,1,7,4,4,4,4,4,2,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,No,No,4,5,6,3,2,2,3,2,7,2,3,1,2,3,5,3,6
+Organization,,Yes,In-house software developer,Many projects,Both,4,No,Yes,6,7,3,5,7,6,7,5,6,4,6,5,6,4,5,6,3
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,Yes,6,6,2,5,4,4,4,2,6,6,4,4,4,1,5,1,5
+Organization,,No,In-house software developer,Individual product,Both,8,Yes,N/A,5,6,3,5,6,6,4,2,5,6,4,4,4,5,3,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,6,6,2,6,6,6,4,6,6,2,6,6,4,6,2,1,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,14,No,No,4,4,5,4,4,3,4,5,5,1,5,5,5,4,3,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,N/A,7,5,2,4,3,6,7,5,5,2,5,7,4,7,1,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,11,Yes,Yes,7,7,2,6,7,6,7,6,7,3,6,5,5,6,3,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,11,Yes,N/A,6,6,2,6,5,5,6,5,5,3,6,6,6,4,5,2,7
+Organization,,No,Software Development Consultancy,Many projects,Both,4,Yes,Yes,4,4,2,5,6,6,5,4,6,3,5,3,6,3,6,6,4
+Organization,,Yes,In-house software developer,Individual product,Both,14,Yes,N/A,6,6,2,6,6,5,6,5,5,2,5,6,6,4,4,3,5
+Organization,,No,Software Development Consultancy,Individual product,Maintaining existing applications,7,No,Yes,6,6,4,7,5,6,7,2,4,5,5,6,4,4,1,3,1
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,7,7,4,7,7,7,7,1,7,4,6,5,6,2,1,2,5
+Organization,,Yes,In-house software developer,Individual product,Both,10,No,N/A,4,6,5,5,5,4,4,1,4,5,4,5,4,1,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,6,6,6,5,3,5,6,4,3,4,4,4,4,5,6,6,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,2,No,Yes,5,6,3,6,7,4,5,5,6,4,7,6,6,4,6,6,5
+Organization,,Yes,In-house software developer,Individual product,Both,9,Yes,N/A,7,6,1,6,7,7,7,7,2,1,6,6,6,6,5,3,6
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,15,Yes,N/A,7,7,1,7,7,7,7,2,6,5,3,5,6,1,5,5,4
+Myself,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,11,Yes,N/A,7,6,2,7,6,7,6,4,7,2,5,6,5,5,2,4,7
+Myself,,Yes,In-house software developer,Many projects,Both,15,Yes,Yes,7,7,3,7,7,6,5,4,7,6,5,6,6,5,5,7,6
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,11,No,Yes,6,5,3,4,7,4,7,4,6,3,2,4,4,1,5,5,3
+Organization,,Yes,In-house software developer,Individual product,Both,20,Yes,N/A,6,6,2,6,6,5,6,7,6,1,6,6,6,6,3,4,6
+Myself,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,N/A,6,7,4,6,6,6,6,4,6,4,4,4,4,4,5,5,5
+Myself,,N/A,N/A,Many projects,Creating new greenfield applications,12,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,4,Yes,N/A,7,7,2,6,7,6,7,4,7,4,4,4,4,6,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,Yes,6,6,3,7,7,6,6,4,6,4,4,5,5,5,4,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,12,Yes,N/A,7,7,1,7,7,7,7,4,7,5,3,4,3,1,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,3,Yes,Yes,5,6,3,6,6,5,5,4,5,4,5,5,4,5,4,3,5
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,6,No,Yes,6,6,3,4,6,6,5,4,6,4,5,5,5,5,6,6,1
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,25,Yes,N/A,7,7,1,7,7,7,7,5,4,1,5,5,5,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,Yes,6,6,2,6,6,5,7,6,7,1,6,6,5,5,3,2,5
+Organization,,Yes,In-house software developer,Many projects,Both,28,Yes,N/A,7,7,1,7,7,7,6,7,7,1,6,7,6,6,1,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,No,Yes,4,5,2,5,5,5,5,3,6,3,5,5,5,5,4,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,15,No,No,4,4,3,4,4,4,3,2,5,3,3,4,3,5,2,2,6
+Organization,,No,In-house software developer,Individual product,Both,23,No,Yes,6,7,5,6,7,6,4,4,5,5,4,4,4,4,2,3,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,No,Yes,7,7,1,7,7,6,4,4,6,5,6,6,6,1,6,7,4
+Organization,,Yes,In-house software developer,Many projects,Both,19,Yes,Yes,6,6,4,6,6,5,7,3,5,5,4,5,5,5,7,7,6
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,2,7,6,6,7,7,6,1,5,5,5,6,3,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,17,Yes,N/A,7,7,1,7,7,7,4,7,7,5,7,7,6,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,12,Yes,N/A,7,7,1,7,5,6,6,4,7,1,1,6,6,6,6,6,5
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,3,No,No,6,5,4,4,4,3,4,5,6,3,2,4,5,1,3,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,15,Yes,Yes,7,7,1,6,7,7,7,3,5,5,7,7,7,7,7,5,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,10,Yes,Yes,6,6,3,5,6,4,5,7,7,1,6,6,6,7,2,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,3,Yes,Yes,7,7,3,7,7,7,5,1,7,7,1,4,4,1,7,4,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,31,Yes,N/A,7,7,1,7,7,7,7,4,6,3,5,5,6,4,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,10,Yes,N/A,7,7,2,6,1,6,7,4,6,4,4,4,4,5,6,5,7
+Organization,,Yes,In-house software developer,Many projects,Both,16,No,Yes,6,6,3,6,5,5,5,4,5,4,3,5,5,4,6,6,4
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,6,6,2,6,6,6,6,4,6,5,6,6,4,5,2,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,Yes,6,6,4,6,7,4,6,4,4,4,3,3,3,3,4,4,6
+Myself,,N/A,N/A,Individual product,Both,20,Yes,N/A,6,7,6,7,7,6,7,4,6,4,4,4,4,1,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,Yes,6,7,3,7,7,4,7,3,6,1,3,4,4,1,5,7,4
+Organization,,Yes,In-house software developer,Individual product,Both,4,Yes,N/A,5,5,2,5,6,4,7,6,4,3,5,5,5,4,2,3,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,3,No,Yes,7,7,2,6,7,6,6,4,7,2,6,6,5,4,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,7,7,1,4,7,6,7,4,7,5,2,5,4,1,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,12,Yes,N/A,6,5,2,6,7,6,6,2,7,5,4,3,4,3,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,7,7,1,7,7,7,7,1,7,6,2,2,2,1,4,3,6
+Organization,,Yes,In-house software developer,Individual product,Both,9,Yes,N/A,5,6,3,5,6,5,7,6,5,2,6,6,7,7,6,7,5
+Organization,,Yes,In-house software developer,Individual product,Both,2,Yes,N/A,7,4,1,4,4,5,4,7,7,1,5,5,5,5,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,3,Yes,Yes,7,7,3,7,7,4,7,3,5,5,4,4,4,2,7,7,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,15,Yes,N/A,7,7,1,6,7,7,7,4,6,2,6,6,6,4,5,4,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,4,Yes,Yes,7,7,1,5,5,7,2,3,7,6,1,5,2,2,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,6,7,6,7,6,4,7,2,5,5,5,3,2,2,6
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,11,Yes,N/A,7,7,1,5,4,4,4,2,6,3,2,2,2,4,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,No,Yes,6,6,4,5,6,4,3,2,5,6,4,4,4,1,5,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,22,No,Yes,5,6,4,5,6,4,5,1,6,5,4,4,4,2,6,4,2
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,28,Yes,N/A,7,7,1,5,7,7,7,7,5,2,3,3,4,4,1,5,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,3,No,Yes,7,7,1,7,7,7,7,4,7,1,7,7,7,4,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,N/A,7,7,2,7,6,6,7,7,6,2,6,6,5,6,2,2,7
+Myself,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,N/A,6,5,3,4,4,4,7,6,5,3,5,5,5,6,6,7,7
+Organization,,Yes,In-house software developer,Many projects,Both,16,Yes,N/A,6,6,4,6,7,5,5,4,5,4,6,5,4,4,6,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,7,7,1,7,7,7,7,2,6,6,4,5,4,3,1,1,5
+Organization,,Yes,Software Development Consultancy,Individual product,Both,4,Yes,Yes,6,6,2,6,6,6,6,4,6,4,5,5,5,5,3,3,6
+Organization,,Yes,In-house software developer,Many projects,Both,30,Yes,Yes,5,5,3,5,6,4,3,4,6,2,5,5,3,4,4,5,4
+Organization,,Yes,In-house software developer,Individual product,Both,22,Yes,N/A,7,6,2,6,6,5,6,7,7,2,6,5,6,6,4,5,7
+Myself,,N/A,N/A,Many projects,Creating new greenfield applications,2,Yes,N/A,7,7,4,6,7,6,7,3,7,5,4,4,4,5,2,1,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,9,Yes,Yes,7,7,2,7,7,6,5,4,7,3,7,6,4,2,5,6,7
+Organization,,Yes,In-house software developer,Individual product,Both,17,Yes,N/A,7,7,1,7,7,7,7,7,5,1,7,7,7,7,7,7,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,2,Yes,N/A,7,7,2,3,6,6,3,7,5,1,7,3,2,7,6,6,2
+Organization,,Yes,In-house software developer,Many projects,Both,12,Yes,N/A,5,6,3,5,6,6,5,5,5,3,5,5,5,5,4,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,7,No,No,5,5,6,5,3,3,1,4,3,3,4,5,3,4,3,5,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,25,Yes,N/A,7,5,5,6,5,5,6,5,7,5,4,4,3,1,5,5,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,3,Yes,Yes,5,6,4,6,6,6,6,6,5,1,5,5,5,3,1,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,14,Yes,N/A,7,7,1,6,6,6,5,1,6,5,4,5,4,1,4,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,2,6,7,7,7,5,7,2,7,7,7,7,3,5,7
+Organization,,No,In-house software developer,Many projects,Maintaining existing applications,6,Yes,Yes,6,6,4,4,6,4,4,1,7,4,5,5,3,7,6,6,5
+Organization,,Yes,In-house software developer,Individual product,Both,18,Yes,N/A,5,5,3,4,6,4,6,3,7,2,5,4,5,4,7,5,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,N/A,7,7,4,7,5,5,6,5,7,2,6,6,6,2,4,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,7,7,4,6,7,4,7,7,7,5,7,6,6,7,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,6,6,4,5,7,4,6,7,6,1,6,6,6,6,3,3,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,6,Yes,N/A,6,6,2,6,6,6,6,3,5,5,4,5,4,5,5,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,N/A,7,7,2,5,6,5,6,6,6,2,5,6,6,6,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,6,6,2,7,7,4,7,4,4,3,3,4,3,1,1,3,5
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,No,Yes,5,5,1,4,6,5,6,1,6,1,4,3,3,2,7,2,3
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,6,5,3,6,5,5,5,4,6,4,5,5,5,3,4,5,7
+Organization,,N/A,In-house software developer,Many projects,Maintaining existing applications,17,No,Yes,7,7,2,6,6,6,4,2,6,4,4,4,4,2,3,3,2
+Organization,,Yes,Software Development Consultancy,Many projects,Both,15,Yes,N/A,7,7,1,7,7,7,7,7,4,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,Yes,N/A,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,16,Yes,N/A,6,6,3,7,7,6,6,6,6,4,5,5,5,4,6,6,6
+Organization,,Yes,In-house software developer,Many projects,Both,7,No,Yes,5,6,7,5,4,4,4,3,2,4,4,4,4,4,7,6,5
+Organization,,Yes,In-house software developer,Many projects,Both,4,Yes,N/A,7,7,1,7,7,6,6,4,7,2,7,7,6,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,6,No,Yes,6,6,2,6,6,6,6,4,6,4,4,6,4,5,5,3,4
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,10,No,Yes,6,4,2,7,7,6,6,4,6,3,5,4,6,4,4,4,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,7,7,2,5,7,7,7,5,7,2,5,4,4,4,5,5,7
+Organization,,N/A,In-house software developer,Many projects,Maintaining existing applications,10,Yes,Yes,7,7,3,6,6,6,5,4,4,4,4,4,4,2,6,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,6,7,7,7,7,7,1,7,6,7,7,5,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,7,7,3,6,7,1,7,5,5,3,6,6,6,6,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,No,No,5,5,6,4,4,3,3,2,5,2,4,4,4,3,1,4,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,17,Yes,N/A,5,7,3,6,3,5,5,6,6,1,4,6,2,3,6,6,6
+Organization,,N/A,In-house software developer,Many projects,Both,5,Yes,N/A,7,7,1,7,7,7,7,4,7,4,4,4,4,4,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,19,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,3,2,7
+Myself,,N/A,In-house software developer,Many projects,Creating new greenfield applications,5,No,Yes,7,7,5,7,6,6,6,4,6,5,6,6,6,3,5,3,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,Yes,5,6,2,6,5,6,6,5,6,1,4,5,4,5,4,1,1
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,15,Yes,N/A,7,7,4,7,6,5,7,3,4,3,3,4,4,3,3,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,17,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,27,Yes,N/A,7,7,3,7,7,7,6,3,7,5,5,5,4,6,3,5,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,2,Yes,N/A,7,7,1,7,7,6,7,1,7,6,3,3,3,1,1,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,4,Yes,N/A,6,5,3,7,7,7,7,7,7,4,7,7,7,7,4,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,3,Yes,N/A,7,7,2,5,7,6,7,7,5,2,7,4,7,7,5,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,9,Yes,N/A,7,7,3,5,6,5,7,6,6,2,5,5,5,6,5,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,14,Yes,N/A,6,6,3,5,6,7,5,3,7,5,3,3,3,3,3,4,6
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,2,3,7
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,10,Yes,N/A,7,7,3,7,5,7,7,2,7,5,2,2,2,2,5,6,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,No,Yes,6,6,3,6,7,5,6,4,6,3,5,6,6,6,6,6,5
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,14,No,Yes,5,6,6,4,5,2,4,1,5,3,2,2,2,1,2,4,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,Yes,7,7,2,7,7,7,7,7,7,1,7,7,7,7,4,4,6
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,25,Yes,N/A,7,7,2,6,7,5,7,2,6,4,5,5,5,2,5,2,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,Yes,7,5,2,4,6,4,6,3,7,6,2,4,3,1,6,4,5
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,Yes,7,7,6,7,7,7,7,5,5,3,6,6,6,6,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,7,Yes,N/A,7,7,1,7,7,7,7,7,5,1,6,7,6,7,2,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,3,Yes,Yes,7,7,2,5,7,6,7,4,3,3,5,5,5,5,6,1,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,14,Yes,N/A,7,5,1,6,7,6,7,4,7,4,4,4,4,5,6,7,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,16,Yes,Yes,7,7,1,5,7,7,7,7,7,1,7,5,7,7,2,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,8,Yes,N/A,6,7,5,6,7,6,7,7,7,2,6,6,6,5,4,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,N/A,7,7,2,5,7,6,7,6,5,2,5,6,6,5,4,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,12,Yes,N/A,7,7,3,6,6,5,7,6,6,2,5,6,5,3,4,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,7,Yes,N/A,5,5,4,4,5,4,4,4,4,4,4,4,4,4,3,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,No,Yes,6,6,4,5,6,4,5,3,5,4,5,5,4,3,5,5,5
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,12,Yes,N/A,7,7,1,7,7,7,7,2,6,6,3,4,4,1,2,4,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,N/A,7,7,1,6,6,5,6,2,5,2,4,4,4,4,4,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,6,No,Yes,5,5,3,3,3,4,4,4,5,1,4,4,3,5,5,4,3
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,8,No,Yes,6,6,4,5,6,3,6,2,5,6,4,6,6,2,4,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,7,7,2,5,6,4,5,5,5,3,4,5,5,3,6,3,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,No,No,5,5,5,5,5,3,5,2,4,5,4,4,4,3,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,22,Yes,N/A,7,7,5,7,7,5,7,4,7,5,7,7,7,4,1,1,7
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,5,No,No,4,4,3,3,5,5,3,5,2,2,6,6,6,6,1,3,4
+Organization,,Yes,In-house software developer,Individual product,Both,3,No,Yes,7,7,2,6,6,6,6,5,6,2,6,6,6,2,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,Yes,7,7,1,5,6,7,7,3,6,5,5,6,5,4,4,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,6,6,2,5,6,5,5,6,3,2,5,5,5,6,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,14,Yes,N/A,6,6,4,5,7,5,7,7,7,1,7,5,7,7,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,1,Yes,N/A,6,7,4,6,7,6,5,5,7,4,7,6,5,6,2,4,4
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,12,No,Yes,6,6,4,3,5,5,6,1,7,7,4,4,5,5,5,5,2
+Organization,,No,In-house software developer,Individual product,Both,10,No,Yes,5,5,5,5,6,5,6,4,5,4,5,5,5,4,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,6,5,6,7,5,6,7,6,3,5,5,5,7,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,6,Yes,N/A,6,6,2,5,7,4,6,1,5,5,2,2,2,1,5,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,5,6,6,7,5,6,2,5,6,5,4,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,20,Yes,N/A,7,7,2,6,6,6,6,7,6,2,7,6,6,7,5,4,7
+Organization,,N/A,Software Development Consultancy,Individual product,Creating new greenfield applications,2,Yes,N/A,6,5,4,5,6,5,6,4,6,6,7,4,4,6,5,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,6,7,3,1,7,7,7,4,4,4,5,5,5,3,4,5,7
+Myself,,Yes,N/A,Individual product,Both,7,Yes,N/A,6,6,1,6,7,7,5,4,6,2,6,7,6,4,5,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,20,Yes,Yes,7,7,2,6,7,6,7,6,7,2,6,6,6,6,2,2,7
+Organization,,No,In-house software developer,Individual product,Both,15,Yes,N/A,6,7,1,5,6,7,7,1,6,7,4,4,4,1,2,2,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,7,7,1,7,7,7,7,7,5,1,7,7,7,7,2,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,N/A,7,7,1,7,7,7,7,5,7,3,4,4,4,5,3,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,Yes,7,7,1,7,7,7,7,4,7,6,5,5,5,1,1,6,6
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,2,7,7,7,7,7,7,2,7,7,7,7,7,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,Yes,7,7,2,7,6,6,6,5,7,2,5,6,6,4,5,5,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,6,Yes,Yes,7,7,2,7,7,5,7,2,7,5,7,7,7,3,2,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,15,No,Yes,6,6,2,4,5,5,6,3,6,4,4,6,6,4,4,4,5
+Organization,,Yes,Software Development Consultancy,Individual product,Both,6,Yes,N/A,7,7,2,7,6,4,6,4,6,4,4,5,4,4,2,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,20,No,No,3,3,6,3,2,1,4,1,5,4,2,4,4,1,7,7,3
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,5,6,2,5,6,4,5,6,6,2,6,5,5,7,5,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,6,Yes,N/A,7,7,3,5,7,5,6,1,7,6,2,2,1,1,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,No,Yes,7,7,2,7,7,7,7,1,7,4,5,5,5,1,1,3,4
+Organization,,No,Software Development Consultancy,Many projects,Both,20,Yes,Yes,5,6,4,7,5,4,6,1,7,6,3,4,3,5,5,4,6
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,Yes,7,6,2,2,7,6,6,4,6,5,6,6,6,4,5,4,6
+Organization,,Yes,In-house software developer,Many projects,Both,35,Yes,N/A,7,7,3,7,7,7,7,7,5,2,7,7,7,7,5,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,5,6,1,5,6,2,4,2,1,5,6,6
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,5,Yes,Yes,7,7,1,7,7,4,7,1,7,7,1,1,1,5,5,4,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,11,No,N/A,5,5,3,5,5,4,5,4,5,2,5,5,5,5,2,6,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,3,Yes,N/A,5,5,4,4,4,3,5,2,6,3,2,4,1,7,7,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,16,Yes,N/A,7,7,1,7,7,6,6,6,7,2,6,6,5,2,4,4,6
+Organization,,Yes,In-house software developer,Many projects,Both,33,Yes,N/A,7,7,2,7,7,7,7,6,5,3,5,5,6,6,2,3,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,Yes,7,7,2,7,7,6,7,7,6,2,7,7,6,7,4,5,7
+Organization,,Yes,In-house software developer,Many projects,Both,30,Yes,N/A,6,6,4,7,5,4,4,4,5,3,4,4,4,2,5,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,1,6,5,5,6,6,6,2,6,6,6,6,5,2,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,8,Yes,N/A,7,7,1,7,7,4,7,7,7,1,6,7,7,7,5,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,4,Yes,N/A,7,7,1,7,7,7,7,7,7,2,7,7,7,7,6,6,7
+Myself,,N/A,N/A,Many projects,Both,25,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,4,6
+Organization,,Yes,In-house software developer,Individual product,Both,9,Yes,N/A,7,7,1,5,6,6,6,4,7,4,4,6,5,7,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,5,No,Yes,7,7,4,7,5,5,7,4,5,6,2,3,6,3,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,7,7,2,7,7,7,7,6,7,3,7,7,7,3,1,1,7
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,5,Yes,N/A,7,7,2,6,6,5,6,6,6,2,6,6,6,6,5,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,35,Yes,N/A,6,6,3,3,5,5,5,6,5,2,4,6,6,5,6,6,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,18,Yes,Yes,7,7,1,7,5,7,7,7,7,1,7,7,7,7,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,7,7,3,7,7,5,6,5,5,3,5,6,5,5,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,9,No,Yes,7,7,2,7,7,5,7,4,5,2,5,6,7,2,6,5,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,2,Yes,Yes,6,6,3,6,6,5,6,6,6,3,6,6,6,4,4,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,Yes,7,7,2,7,7,4,7,4,6,3,4,4,4,7,2,1,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,4,5,6,7,1,7,4,4,5,3,2,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,12,Yes,N/A,5,6,2,5,5,5,5,4,6,4,4,4,4,4,3,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,21,Yes,N/A,4,7,1,7,3,5,7,4,6,4,5,6,5,7,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,5,5,3,4,6,4,6,2,4,1,4,5,6,4,1,4,7
+Organization,,Yes,In-house software developer,Individual product,Both,9,Yes,N/A,7,7,6,7,7,7,7,7,6,1,7,7,7,7,2,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,16,Yes,N/A,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,25,Yes,N/A,7,7,1,7,7,7,4,4,7,1,4,4,4,2,7,7,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,1,Yes,N/A,6,7,5,3,7,4,7,5,3,4,6,3,7,4,1,1,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,Yes,N/A,7,7,1,5,7,6,7,4,7,4,7,5,5,7,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,14,Yes,N/A,7,7,7,7,7,7,6,6,6,1,6,6,6,6,5,5,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,12,Yes,Yes,5,5,5,6,5,4,3,5,6,6,5,5,3,6,3,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,4,No,Yes,5,6,4,5,5,4,5,4,6,4,4,4,4,4,3,6,4
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,35,Yes,N/A,6,6,2,5,6,6,6,6,6,2,6,6,6,4,7,7,6
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,7,Yes,Yes,7,7,1,7,7,4,7,7,7,1,7,7,7,7,1,4,5
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,6,5,2,4,5,6,7,7,6,1,6,4,6,7,6,4,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,4,No,Yes,5,7,3,6,7,4,5,4,7,4,6,6,4,1,6,7,2
+Myself,,Yes,In-house software developer,Individual product,Maintaining existing applications,1,Yes,N/A,7,7,2,2,6,4,4,7,7,1,6,2,4,7,7,2,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,10,Yes,N/A,7,7,5,7,6,5,6,7,7,1,7,6,7,6,3,5,5
+Organization,,No,In-house software developer,Individual product,Both,12,No,Yes,6,5,4,5,6,6,6,2,6,6,6,3,3,2,5,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,13,Yes,N/A,7,7,2,4,7,6,7,7,7,5,7,5,7,7,5,6,4
+Organization,,Yes,Software Development Consultancy,Many projects,Both,47,Yes,N/A,7,7,1,7,7,7,7,4,6,2,4,4,4,3,3,3,7
+,Consultant,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,15,Yes,N/A,7,7,2,7,4,4,5,7,7,1,6,7,5,7,4,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,Yes,N/A,7,7,1,7,7,7,7,5,7,1,7,7,7,7,4,3,4
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,7,7,1,7,7,6,6,7,7,4,7,7,5,7,5,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,8,Yes,N/A,7,7,2,7,6,6,6,1,7,4,4,4,4,1,1,4,3
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,5,5,3,5,5,5,5,5,5,4,5,5,5,5,3,3,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,3,No,Yes,7,7,4,7,4,7,7,4,3,5,2,2,4,1,4,5,2
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,16,Yes,N/A,7,7,3,7,7,4,7,4,6,4,4,4,4,5,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,6,Yes,N/A,7,7,1,7,7,7,7,4,6,3,4,4,4,4,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,6,Yes,N/A,7,4,2,6,7,5,7,5,7,1,7,5,7,3,3,2,5
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,6,6,5,6,4,3,5,4,4,4,4,4,5,1,6,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,6,6,4,4,7,5,6,6,5,2,6,4,4,7,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,Yes,7,7,1,7,7,7,7,7,5,7,7,7,7,5,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,30,Yes,N/A,6,6,3,5,6,5,6,4,6,2,5,4,5,6,4,3,6
+Myself,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,7,5,7,7,4,6,6,4,6,7,7,7,3,6,7
+Organization,,Yes,In-house software developer,Individual product,Both,4,No,N/A,5,5,2,5,5,4,4,4,7,1,6,6,5,6,1,1,6
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,Yes,7,7,1,6,5,6,6,7,7,1,7,6,6,7,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,7,7,2,6,7,6,7,4,7,2,7,7,7,6,3,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,15,Yes,N/A,7,7,1,5,7,7,7,4,7,4,7,1,7,5,4,7,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,6,6,2,5,7,5,7,6,6,2,6,5,7,6,4,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,1,Yes,N/A,7,7,2,7,7,7,7,7,7,1,7,7,7,5,5,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,1,7,7,7,7,3,7,5,5,5,4,3,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,2,Yes,Yes,5,5,3,5,5,4,4,4,5,4,5,5,4,4,5,5,4
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,11,Yes,N/A,7,7,2,6,7,6,7,2,6,7,2,2,2,2,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,4,Yes,N/A,7,7,1,7,6,7,7,4,7,4,5,5,5,5,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,5,5,3,6,7,4,5,7,6,1,5,6,5,5,3,3,6
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,6,2,6,7,5,5,7,6,1,4,6,6,5,5,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,8,Yes,N/A,7,7,2,7,5,5,5,5,7,1,6,5,6,5,6,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,N/A,7,7,7,7,7,6,7,7,7,3,7,7,7,7,6,2,5
+Organization,,Yes,Software Development Consultancy,Individual product,Both,3,Yes,N/A,5,6,3,5,7,6,7,4,6,4,4,4,4,3,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,2,6,5,5,6,7,6,1,7,6,7,6,3,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,N/A,7,7,2,7,7,6,7,6,7,2,6,6,7,4,2,3,7
+Myself,,N/A,N/A,Many projects,Creating new greenfield applications,20,Yes,N/A,7,7,4,6,7,5,7,4,4,4,6,6,6,4,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,8,Yes,N/A,7,7,1,7,7,7,7,4,5,1,5,5,5,3,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,9,Yes,N/A,5,6,3,6,7,6,7,3,5,4,6,6,6,3,1,2,6
+Organization,,No,In-house software developer,Many projects,Both,10,Yes,Yes,5,6,2,7,6,6,6,2,7,7,5,5,5,2,4,2,6
+,Consultant and trainer,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,6,6,2,7,6,5,7,4,7,4,4,4,4,4,1,2,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,12,Yes,N/A,6,6,3,5,6,6,6,4,5,3,6,6,6,5,4,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,14,Yes,N/A,4,4,4,4,4,4,4,3,7,3,5,5,5,7,7,4,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,12,Yes,N/A,7,7,1,4,5,7,7,4,7,2,5,7,7,7,4,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,6,7,2,6,7,6,7,7,7,1,7,7,7,7,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,6,7,3,1,7,4,7,7,6,2,7,7,7,7,4,4,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,6,6,1,6,6,6,6,6,6,1,6,6,6,6,4,4,6
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,11,Yes,N/A,7,7,2,6,6,6,6,6,7,2,6,6,6,5,3,6,6
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,11,No,Yes,6,6,2,6,7,6,6,1,5,7,1,1,1,1,4,3,1
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,5,5,3,5,5,5,5,5,6,2,5,5,5,5,5,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,3,Yes,N/A,6,6,4,4,5,5,4,3,4,4,5,4,4,1,5,5,2
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,4,No,Yes,6,6,3,7,7,5,6,4,5,3,3,5,4,3,2,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,7,7,7,7,7,7,6,2,3,6,6,3,3,1,6
+Organization,,Yes,In-house software developer,Many projects,Both,17,Yes,N/A,7,7,7,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,4,Yes,N/A,5,6,5,6,6,3,5,3,4,7,3,2,2,2,4,6,6
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,5,6,4,5,6,3,4,6,7,2,4,5,3,4,2,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,13,Yes,N/A,7,5,3,6,7,6,7,5,5,2,5,6,5,5,3,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,7,7,7,7,6,6,6,6,6,2,6,6,6,6,3,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,13,Yes,N/A,7,7,3,6,5,6,7,2,6,4,5,6,5,1,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,12,No,Yes,6,6,2,5,6,5,5,5,7,3,3,4,4,5,2,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,9,Yes,N/A,7,6,2,6,7,6,7,4,6,3,5,5,5,6,5,2,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,20,Yes,Yes,6,6,2,7,6,5,6,4,7,2,6,6,6,5,6,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,16,Yes,N/A,6,6,2,6,6,5,6,4,6,4,5,5,5,5,3,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,6,6,6,7,6,6,1,5,5,5,4,5,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,7,Yes,N/A,5,5,3,5,6,5,7,4,5,4,5,5,5,4,7,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,N/A,6,7,4,5,6,5,7,3,7,4,3,5,5,2,4,3,5
+Organization,,Yes,Software Development Consultancy,Individual product,Both,17,Yes,N/A,6,6,2,7,6,5,5,6,6,2,5,5,5,4,2,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,1,7,7,7,7,5,6,2,5,6,6,6,5,4,7
+Myself,,N/A,N/A,Individual product,Maintaining existing applications,4,Yes,Yes,7,7,4,7,6,4,6,4,5,4,4,4,4,3,6,5,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,6,No,Yes,5,5,4,5,5,5,5,1,5,4,4,4,4,4,6,6,2
+Organization,,Yes,In-house software developer,Many projects,Both,2,Yes,N/A,6,6,2,5,7,6,5,7,6,2,7,7,7,7,3,3,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,2,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,4,6
+Organization,,Yes,In-house software developer,Many projects,Both,25,Yes,N/A,6,6,2,6,6,5,5,6,5,3,7,7,6,6,6,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,30,Yes,Yes,7,7,2,6,6,6,7,6,6,2,7,6,7,7,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Both,7,Yes,N/A,7,7,2,5,6,5,5,1,6,4,3,5,3,1,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,7,7,1,7,7,6,7,4,7,4,4,5,4,5,3,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,6,5,5,6,6,5,5,4,5,2,4,5,4,3,5,7,6
+Organization,,Yes,In-house software developer,Many projects,Both,6,Yes,N/A,7,7,6,7,7,7,7,7,5,2,7,7,7,6,4,4,7
+Myself,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,7,7,2,6,6,6,6,7,7,1,7,7,7,6,5,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,2,No,Yes,5,4,4,5,5,4,4,4,5,4,4,4,4,1,4,4,1
+Myself,,N/A,N/A,Many projects,Both,16,Yes,N/A,7,7,1,6,5,5,5,4,6,4,4,4,4,4,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,4,Yes,N/A,7,7,3,5,6,7,7,6,5,2,5,6,7,7,4,4,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,25,Yes,N/A,5,5,3,4,3,3,3,5,4,1,5,4,4,6,1,1,7
+Organization,,Yes,N/A,Many projects,Both,5,Yes,N/A,7,7,1,7,7,7,7,4,4,4,1,4,4,1,7,7,7
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,12,Yes,N/A,6,5,3,5,5,5,4,5,5,2,4,5,5,6,5,5,6
+Organization,,No,Software Development Consultancy,Many projects,Maintaining existing applications,8,Yes,N/A,5,5,2,5,5,5,5,2,5,5,3,5,5,5,3,2,3
+Organization,,Yes,In-house software developer,Many projects,Both,30,No,No,4,4,7,1,4,1,1,4,4,4,3,3,3,5,4,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,Yes,7,7,2,7,7,6,6,6,6,2,5,6,6,6,1,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,N/A,6,6,4,5,7,7,3,6,6,1,6,4,4,6,6,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,9,Yes,N/A,7,6,1,5,7,6,6,7,7,1,7,7,7,7,6,6,6
+Organization,,No,In-house software developer,Many projects,Both,10,No,No,4,4,1,6,5,4,4,1,4,6,3,3,3,3,3,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,12,Yes,N/A,5,5,3,7,5,6,5,4,5,4,5,6,5,2,5,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,18,Yes,N/A,7,7,5,7,7,5,6,7,7,2,7,7,7,7,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,14,No,Yes,7,7,2,7,7,7,7,1,7,2,6,5,5,3,4,5,1
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,No,Yes,6,6,2,6,6,5,5,4,6,2,4,4,4,5,6,3,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,8,No,Yes,7,7,1,7,7,7,7,5,6,2,5,5,5,2,7,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,Yes,5,5,4,5,5,4,4,4,5,3,5,5,5,4,3,5,3
+Myself,,Yes,In-house software developer,Individual product,Maintaining existing applications,28,Yes,N/A,7,7,2,6,6,6,7,7,6,1,7,7,7,7,2,1,6
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,6,Yes,Yes,7,7,6,6,7,5,5,5,7,2,5,5,5,4,2,2,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,No,Yes,4,5,3,5,6,5,3,3,4,5,5,4,4,4,2,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,22,Yes,Yes,7,7,5,7,6,6,6,7,7,1,6,6,6,5,6,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,19,Yes,N/A,7,7,1,7,7,7,7,7,4,4,7,7,7,7,1,4,7
+Organization,,No,In-house software developer,Individual product,Creating new greenfield applications,14,No,No,3,3,5,4,3,2,1,1,3,4,3,4,4,1,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,Yes,7,7,1,7,7,7,7,7,7,1,7,7,7,5,1,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,1,6,7,6,7,5,5,2,4,4,4,3,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,4,7,7,6,1,7,7,7,4,2,5,7
+Myself,,Yes,In-house software developer,Many projects,Both,18,Yes,Yes,7,7,7,7,7,7,7,4,7,4,7,7,7,4,1,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,5,6,4,4,6,4,6,5,6,3,6,4,6,6,5,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,7,Yes,N/A,6,6,3,6,5,4,5,2,5,3,3,2,3,4,4,5,5
+Myself,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,Yes,7,7,1,7,7,7,7,4,6,4,7,7,7,7,3,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,Yes,7,7,2,6,7,7,7,6,5,1,7,7,7,6,3,2,6
+Organization,,Yes,N/A,Individual product,Maintaining existing applications,19,Yes,N/A,7,7,1,7,7,6,5,6,6,2,6,6,6,6,5,6,6
+Organization,,Yes,In-house software developer,Many projects,Both,13,Yes,N/A,7,7,4,5,6,4,6,7,5,2,7,7,6,6,4,4,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,8,Yes,N/A,7,7,1,5,7,5,7,5,7,1,5,4,5,2,3,1,7
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,26,Yes,Yes,7,7,1,7,7,7,7,5,7,1,5,4,5,5,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,13,Yes,Yes,7,7,1,6,7,7,6,5,6,1,5,5,5,4,4,4,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,No,Yes,5,6,5,6,3,4,4,4,5,4,4,4,4,1,5,6,3
+Organization,,Yes,In-house software developer,Many projects,Both,9,Yes,N/A,5,6,2,6,4,5,3,3,3,4,4,4,4,2,1,1,6
+Organization,,No,In-house software developer,Many projects,Maintaining existing applications,7,No,Yes,5,6,4,6,6,5,2,1,6,7,4,5,3,1,2,3,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,7,7,2,7,7,7,7,2,6,2,3,4,3,2,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,7,6,2,6,7,6,7,4,6,4,4,4,4,2,5,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,2,6,7,6,7,7,7,1,7,7,7,7,4,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,23,Yes,N/A,7,7,3,5,6,5,7,7,6,2,6,5,7,6,2,2,7
+Myself,,N/A,Software Development Consultancy,Many projects,Maintaining existing applications,5,Yes,N/A,7,7,1,4,7,4,7,4,7,7,4,5,4,6,1,1,7
+Organization,,Yes,N/A,Individual product,Maintaining existing applications,24,Yes,Yes,7,7,1,7,7,7,7,2,6,2,2,5,4,6,6,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,6,6,1,6,6,6,6,1,6,6,2,2,2,1,4,4,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,7,Yes,N/A,7,7,3,7,7,7,7,7,7,1,5,7,7,5,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,12,Yes,N/A,7,7,7,7,7,7,7,4,7,4,7,6,6,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,5,5,5,5,5,3,5,4,5,1,5,5,5,5,1,1,7
+Organization,,N/A,In-house software developer,Many projects,Both,8,No,Yes,6,7,3,6,7,4,5,4,7,4,4,4,4,2,5,4,2
+Myself,,N/A,N/A,Individual product,Both,6,Yes,N/A,7,7,2,4,6,7,7,4,7,6,4,6,4,7,2,3,4
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,9,Yes,Yes,7,7,2,7,7,6,7,2,4,5,6,6,6,4,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,7,Yes,N/A,7,7,3,6,7,3,5,5,7,2,5,5,6,5,7,7,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,No,N/A,5,6,5,4,5,4,6,4,5,4,4,5,4,4,6,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,16,Yes,Yes,7,7,1,7,7,7,7,7,7,1,7,7,7,7,5,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,21,Yes,N/A,5,5,5,5,3,3,5,4,6,3,5,5,5,5,5,6,6
+Myself,,Yes,Software Development Consultancy,Individual product,Both,13,Yes,N/A,7,7,2,7,7,6,7,4,6,5,5,4,4,2,1,1,7
+Myself,,N/A,N/A,Individual product,Maintaining existing applications,6,No,Yes,4,4,4,4,4,4,4,4,7,4,5,4,4,4,6,6,2
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,5,5,3,4,5,4,4,4,5,3,3,3,3,2,3,4,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,7,7,5,7,7,6,7,4,7,3,6,5,5,6,4,4,6
+Myself,,N/A,N/A,Many projects,Both,15,Yes,N/A,7,7,2,7,7,5,7,4,6,4,4,4,4,4,2,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,N/A,7,7,2,6,7,7,7,4,4,4,5,5,5,3,5,6,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,5,3,5,7,2,6,5,3,5,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,11,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,24,Yes,N/A,7,7,2,7,7,6,7,4,7,4,7,7,7,5,3,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,6,5,3,6,5,5,4,4,6,3,4,5,5,6,3,4,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,24,Yes,N/A,7,7,2,7,7,5,7,6,5,2,6,6,6,5,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,N/A,7,7,1,7,7,7,7,7,5,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,Yes,7,7,2,7,7,7,7,6,7,2,6,6,6,7,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,2,Yes,Yes,7,7,1,7,7,7,7,7,7,1,7,7,7,7,6,6,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,8,Yes,Yes,6,6,3,6,4,5,3,5,6,2,4,5,3,4,2,4,5
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,7,7,2,5,7,6,6,4,7,4,5,5,5,3,7,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,N/A,7,7,1,7,7,7,7,3,7,4,7,7,7,5,5,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,N/A,5,5,3,6,5,5,6,3,7,5,3,4,3,5,6,6,5
+Organization,,Yes,In-house software developer,Individual product,Both,29,Yes,Yes,7,7,1,7,7,7,7,1,7,4,4,6,6,5,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,Yes,Yes,6,6,2,6,6,4,5,4,6,4,4,4,4,1,5,3,5
+Organization,,No,In-house software developer,Many projects,Both,5,Yes,Yes,6,7,4,6,7,6,7,2,6,4,5,4,4,3,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,Yes,7,7,4,7,7,7,7,7,7,4,7,7,7,7,6,6,5
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,15,Yes,N/A,7,7,1,6,7,7,7,4,5,5,4,4,4,2,5,6,6
+Myself,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,7,7,1,5,7,4,6,7,5,1,7,5,7,7,6,6,4
+Organization,,Yes,In-house software developer,Individual product,Both,22,No,Yes,6,6,4,5,5,3,4,2,5,5,4,4,4,3,5,5,5
+Organization,,No,In-house software developer,Many projects,Both,4,Yes,Yes,6,7,2,6,6,7,5,2,7,5,3,4,4,5,2,2,5
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,9,Yes,N/A,7,7,2,7,7,7,7,6,7,4,7,7,7,7,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,6,7,1,7,7,5,7,4,6,2,7,6,6,5,1,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,N/A,5,6,3,4,5,4,5,6,5,1,5,4,5,5,3,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,2,Yes,Yes,7,7,5,6,5,6,5,4,6,4,4,4,4,2,4,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,14,Yes,N/A,7,7,1,7,7,7,7,7,7,1,3,3,4,2,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,2,7,7,7,7,4,7,1,7,7,7,5,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,23,Yes,N/A,6,6,2,6,5,6,6,5,5,3,6,6,6,5,3,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,4,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,N/A,7,7,1,7,7,4,7,5,5,2,7,7,7,3,5,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,6,6,2,6,6,6,6,6,5,2,4,4,4,4,3,3,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,30,Yes,N/A,7,7,1,7,4,3,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,4,No,Yes,5,6,2,6,7,6,7,4,5,4,4,4,4,3,5,6,2
+Organization,,Yes,Software Development Consultancy,Many projects,Both,4,Yes,N/A,5,7,1,7,7,2,7,7,4,1,7,7,7,4,5,6,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,9,Yes,N/A,6,6,1,6,7,3,5,7,7,1,7,6,4,6,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,3,Yes,Yes,6,5,1,5,4,6,4,5,6,1,6,7,7,7,4,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,Yes,7,5,5,6,5,6,6,5,6,3,3,6,5,4,4,1,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,2,6,6,5,6,6,6,2,6,6,6,5,5,3,5
+Organization,,N/A,Software Development Consultancy,Many projects,Both,11,No,No,3,4,6,4,5,2,4,4,4,4,4,4,4,4,5,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,4,7,1,7,7,4,7,6,7,2,5,6,6,5,6,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,7,7,1,5,6,6,4,6,6,3,4,5,5,3,1,1,6
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,13,No,Yes,7,7,5,7,7,4,7,1,5,7,3,4,4,1,5,3,2
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,26,Yes,N/A,6,7,3,7,6,4,5,3,6,3,5,6,6,2,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,25,Yes,N/A,7,7,1,5,6,3,6,7,6,1,6,6,6,7,5,3,7
+Organization,,N/A,In-house software developer,Individual product,Maintaining existing applications,15,No,Yes,6,6,4,6,6,5,7,2,7,5,4,4,4,1,3,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,2,7,7,5,6,4,7,3,7,6,7,6,4,6,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,17,Yes,Yes,5,5,3,5,5,5,5,4,5,4,5,5,5,5,6,5,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,3,Yes,N/A,7,7,3,6,7,6,7,4,4,2,3,4,4,4,3,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,8,No,Yes,7,7,2,5,6,4,7,7,7,1,4,5,4,4,5,6,6
+Organization,,Yes,N/A,Individual product,Both,29,Yes,N/A,6,7,1,3,7,6,6,4,4,1,6,5,7,7,2,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,7,7,1,7,7,7,7,3,7,7,4,4,4,1,1,1,7
+Organization,,No,In-house software developer,Many projects,Both,5,No,Yes,7,7,2,7,7,7,6,1,7,7,2,3,3,1,4,4,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,2,Yes,Yes,5,7,3,6,7,4,5,4,6,3,4,5,4,5,5,5,3
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,6,2,5,6,6,5,6,6,1,4,5,4,6,3,4,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,22,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,11,No,Yes,5,5,2,5,4,4,5,4,5,2,5,5,5,5,4,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,7,7,1,7,7,7,5,2,7,6,3,5,3,1,4,1,6
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,N/A,7,7,1,6,7,6,7,3,5,4,4,5,5,3,4,2,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,3,2,5,4,6,3,3,4,7,5,4,5,3,3,3,3,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,8,Yes,N/A,6,6,5,6,7,4,6,3,4,3,5,4,4,3,7,5,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,20,Yes,N/A,7,7,1,7,7,7,7,6,7,2,6,6,6,6,3,3,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,14,Yes,N/A,5,5,1,5,4,4,4,2,7,4,4,4,4,4,2,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,Yes,5,6,3,6,6,5,5,4,6,4,5,6,6,6,3,1,6
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,7,7,2,6,6,6,5,6,6,2,5,4,5,3,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,14,Yes,N/A,5,6,2,5,7,5,5,2,7,2,6,6,5,1,5,5,6
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,16,Yes,N/A,7,7,3,4,7,4,7,7,5,1,5,6,6,6,4,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,23,Yes,N/A,6,6,5,5,5,6,6,6,5,3,6,6,6,4,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,5,6,4,5,6,6,6,6,6,3,5,5,6,6,4,5,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,10,Yes,N/A,5,6,3,5,4,2,4,1,5,2,5,5,4,5,3,3,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,No,Yes,6,6,6,7,7,6,6,5,7,3,5,5,6,2,3,4,5
+Organization,,N/A,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,7,7,3,7,7,7,7,4,7,3,4,6,6,2,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,8,Yes,N/A,7,7,6,5,5,6,6,6,6,2,6,6,6,5,2,2,7
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,20,Yes,N/A,7,7,1,7,7,7,7,7,4,1,7,7,7,7,1,1,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,30,Yes,N/A,7,7,1,7,5,6,6,7,5,1,5,6,6,5,1,1,7
+Organization,,Yes,N/A,Individual product,Maintaining existing applications,13,Yes,N/A,7,7,2,7,7,7,7,3,7,6,2,5,5,2,4,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,7,No,Yes,6,4,4,6,6,5,5,5,7,6,3,5,1,6,1,2,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,6,6,3,3,7,5,7,4,7,2,5,3,4,2,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,13,No,N/A,5,3,7,1,4,3,3,4,4,5,4,3,5,5,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,Yes,N/A,7,7,2,6,7,7,7,5,7,3,6,6,5,5,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,17,No,Yes,6,6,3,6,6,5,5,5,6,2,5,5,5,5,6,6,4
+Organization,,Yes,In-house software developer,Individual product,Both,30,Yes,N/A,7,7,1,5,5,6,5,7,7,1,6,5,5,7,2,2,7
+Organization,,Yes,In-house software developer,Many projects,Both,12,No,No,3,3,7,3,5,2,5,3,6,4,3,3,4,1,1,1,6
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,5,6,7,6,7,5,7,3,5,6,7,5,5,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,9,No,Yes,5,7,2,6,6,3,4,4,5,4,4,4,4,4,6,7,2
+Organization,,N/A,In-house software developer,Many projects,Creating new greenfield applications,15,No,Yes,4,6,3,5,5,5,4,4,6,3,3,3,3,2,5,6,1
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,Yes,7,7,2,6,6,6,6,6,6,3,6,6,6,6,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,16,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,N/A,7,7,1,7,7,7,7,1,6,4,4,4,4,1,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,2,7,7,6,7,7,6,3,6,6,6,5,3,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,30,Yes,N/A,7,7,4,7,6,6,7,5,7,4,4,5,4,6,6,7,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,4,Yes,N/A,7,7,1,7,7,7,7,2,7,4,3,3,3,2,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,20,No,No,5,6,3,4,5,4,7,4,5,3,5,5,6,5,1,3,7
+Organization,,N/A,In-house software developer,Many projects,Maintaining existing applications,20,No,Yes,6,6,3,5,6,5,4,4,6,5,4,4,4,4,4,5,2
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,Yes,6,7,4,6,5,4,5,5,7,2,5,6,4,5,6,6,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,22,Yes,N/A,7,6,2,6,6,4,6,4,7,2,5,5,5,6,3,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,6,Yes,Yes,7,7,2,7,5,5,6,6,7,1,6,6,6,7,1,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,5,Yes,N/A,7,7,1,7,7,7,7,7,7,2,7,7,7,7,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,N/A,7,7,1,5,6,7,7,7,5,1,7,6,7,7,2,2,7
+Organization,,Yes,N/A,Individual product,Both,12,Yes,N/A,7,7,1,7,6,5,6,2,7,5,5,3,3,3,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,19,Yes,N/A,7,7,1,3,1,2,1,4,1,4,3,3,3,5,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,Yes,7,7,7,6,7,7,7,3,5,3,5,4,4,3,3,5,7
+Myself,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,20,No,Yes,4,4,6,4,4,3,3,5,5,3,5,4,3,5,6,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,3,Yes,Yes,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,4,7
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,30,Yes,N/A,6,6,2,5,5,4,5,6,5,1,6,6,6,5,4,4,6
+Organization,,Yes,In-house software developer,Individual product,Both,17,Yes,N/A,6,5,2,4,5,5,4,6,7,3,4,4,4,6,2,3,7
+Organization,,Yes,In-house software developer,Individual product,Both,11,Yes,N/A,7,7,3,7,7,4,6,6,4,4,6,6,6,5,4,4,7
+Organization,,No,In-house software developer,Many projects,Maintaining existing applications,3,Yes,N/A,7,6,3,5,6,5,6,2,7,6,4,5,4,3,4,4,5
+Myself,,Yes,In-house software developer,Many projects,Both,1,Yes,Yes,6,6,4,6,6,6,6,2,7,5,4,4,4,4,3,4,3
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,14,Yes,N/A,7,7,1,7,7,6,6,7,7,1,7,7,7,7,6,6,5
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,13,Yes,N/A,6,7,2,6,6,5,7,7,6,1,5,5,7,7,3,1,7
+Myself,,Yes,Software Development Consultancy,Many projects,Both,15,Yes,N/A,7,7,1,7,7,6,7,6,6,2,6,6,6,6,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,27,No,No,3,3,5,4,3,3,3,4,3,5,3,3,3,5,5,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,25,No,Yes,7,7,2,7,4,4,4,2,7,4,4,4,4,1,6,6,1
+Organization,,Yes,In-house software developer,Many projects,Both,25,Yes,N/A,7,7,2,7,7,4,7,2,6,7,3,3,2,2,1,1,7
+Myself,,Yes,N/A,Many projects,Both,8,Yes,N/A,7,7,1,6,7,7,7,4,5,4,5,6,4,1,2,2,6
+Organization,,Yes,In-house software developer,Many projects,Both,17,Yes,Yes,6,6,2,6,6,6,6,5,6,2,6,6,6,5,2,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,6,Yes,N/A,7,7,1,5,4,5,7,7,7,1,6,5,5,6,4,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,1,7,7,5,6,5,4,2,7,7,7,5,5,3,7
+Myself,,N/A,N/A,Many projects,Creating new greenfield applications,10,Yes,N/A,5,6,3,6,6,5,5,6,6,2,6,6,6,6,5,4,7
+,both,Yes,In-house software developer,Many projects,Both,7,Yes,N/A,7,7,2,7,7,5,7,4,7,4,4,4,4,4,5,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,No,No,3,3,6,2,3,2,2,3,5,2,3,3,3,1,6,5,6
+Organization,,No,In-house software developer,Many projects,Creating new greenfield applications,12,Yes,Yes,6,7,5,7,6,5,6,4,3,4,4,4,4,1,3,5,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,11,No,Yes,5,6,2,5,5,5,5,3,5,4,4,4,4,2,4,4,3
+Myself,,Yes,Software Development Consultancy,Individual product,Both,8,No,N/A,7,6,2,7,7,5,6,7,7,5,4,4,2,2,1,1,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,19,Yes,N/A,7,7,1,6,6,7,7,7,7,1,7,7,7,7,5,4,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,Yes,7,7,2,5,7,4,7,7,7,2,7,7,7,7,3,4,7
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,6,7,1,6,4,6,5,7,4,2,5,7,6,7,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,15,Yes,N/A,6,6,5,6,6,5,5,6,6,3,5,5,5,5,3,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,10,No,Yes,6,7,3,6,6,4,6,7,6,4,6,6,6,1,4,5,1
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,9,Yes,N/A,7,7,2,6,7,6,7,6,6,2,6,6,6,5,1,3,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,6,Yes,N/A,7,7,1,7,7,7,7,7,5,2,7,7,7,7,5,1,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,Yes,5,6,3,6,6,3,4,4,5,3,5,4,3,3,6,4,3
+Organization,,Yes,Software Development Consultancy,Many projects,Both,30,Yes,N/A,7,7,1,7,7,5,7,4,7,5,5,6,4,5,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,8,Yes,N/A,7,7,4,5,7,7,5,4,7,5,4,4,4,1,5,1,5
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,3,Yes,N/A,5,5,2,6,7,5,6,5,5,1,5,5,5,4,4,2,5
+Organization,,Yes,In-house software developer,Individual product,Both,12,Yes,N/A,7,6,2,5,6,5,6,4,6,5,4,4,4,3,3,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,4,Yes,N/A,7,7,4,6,7,5,7,2,6,4,4,2,3,1,5,4,3
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,Yes,6,7,2,6,7,6,7,5,6,2,6,6,6,5,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,6,Yes,N/A,7,7,2,2,7,6,7,4,6,2,5,4,4,5,3,3,6
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,6,6,3,5,6,6,7,5,6,5,5,6,6,6,2,3,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,6,Yes,N/A,7,7,2,7,5,3,4,4,7,1,6,6,6,5,6,7,5
+Organization,,Yes,In-house software developer,Individual product,Both,7,Yes,N/A,7,7,1,7,7,7,6,4,7,2,5,6,4,4,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,5,4,3,5,4,4,3,6,5,1,6,5,4,7,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,25,Yes,N/A,7,7,2,6,7,5,7,4,6,3,4,4,4,5,6,6,7
+Myself,,N/A,N/A,Many projects,Both,14,No,No,2,2,5,1,3,3,3,1,6,6,2,2,2,1,2,2,7
+Organization,,Yes,Software Development Consultancy,Individual product,Both,7,Yes,N/A,7,7,1,6,6,6,6,7,7,1,6,6,6,7,4,3,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,9,Yes,Yes,7,7,3,6,7,4,7,5,7,1,7,5,5,5,4,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,6,1,7,4,7,7,3,7,4,4,4,4,5,5,4,7
+Myself,,N/A,N/A,Individual product,Maintaining existing applications,9,Yes,N/A,5,5,2,5,5,4,5,4,6,4,6,6,6,7,6,5,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,13,Yes,N/A,6,7,1,7,5,7,6,5,7,2,5,6,4,2,1,1,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,18,Yes,N/A,6,7,2,6,7,6,7,4,7,4,5,5,6,5,2,2,6
+Organization,,Yes,N/A,Individual product,Both,15,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,5,6,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,12,Yes,Yes,5,5,3,4,5,4,5,2,6,4,5,5,5,4,5,3,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,20,Yes,N/A,6,6,2,6,5,6,6,2,6,4,6,6,6,3,1,4,6
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,8,Yes,N/A,6,6,5,6,6,5,4,1,5,7,2,3,3,4,2,4,5
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,1,7,7,5,6,6,7,2,5,6,5,4,2,2,5
+Organization,,Yes,In-house software developer,Many projects,Both,30,Yes,N/A,7,7,1,7,7,7,7,2,7,6,6,6,6,6,2,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,30,Yes,N/A,7,7,1,7,7,7,7,5,3,5,2,2,3,1,4,2,7
+Organization,,N/A,In-house software developer,Many projects,Creating new greenfield applications,5,No,Yes,6,6,2,4,5,5,6,5,7,2,5,5,6,2,1,1,5
+Organization,,Yes,Software Development Consultancy,Individual product,Both,10,Yes,N/A,6,6,3,6,6,5,6,6,6,2,5,5,5,4,4,5,7
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,15,Yes,N/A,6,6,3,6,6,4,7,5,7,2,5,6,5,6,3,2,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,12,Yes,N/A,7,7,3,7,7,5,7,4,5,2,6,5,6,3,6,5,7
+Organization,,No,In-house software developer,Many projects,Maintaining existing applications,20,No,Yes,6,6,3,6,6,5,5,3,6,6,4,4,4,1,3,5,3
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,Yes,6,6,2,6,7,6,6,5,6,2,7,6,6,5,3,3,5
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,1,5,7,6,7,7,7,1,7,6,7,7,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,25,Yes,N/A,5,6,3,5,6,5,6,2,4,4,4,4,4,3,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,4,Yes,N/A,6,6,3,6,6,6,6,6,5,2,6,6,6,6,2,2,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,9,Yes,N/A,7,7,4,6,7,6,7,5,6,4,6,6,6,6,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,7,7,1,7,7,7,7,4,7,4,7,7,7,7,4,4,7
+Organization,,Yes,N/A,Many projects,Both,25,Yes,N/A,7,7,3,5,5,4,5,2,6,2,5,5,5,3,2,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,13,Yes,N/A,5,5,2,4,5,4,5,3,6,3,4,4,4,2,3,3,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,16,Yes,N/A,7,7,1,7,6,7,7,4,7,4,5,5,5,5,2,2,6
+Myself,,N/A,N/A,Many projects,Both,4,Yes,N/A,7,7,2,6,7,4,7,4,7,3,5,4,4,4,3,1,5
+Organization,,No,Software Development Consultancy,Many projects,Both,14,Yes,N/A,7,7,2,7,7,6,7,4,2,5,6,2,2,4,5,5,7
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,7,7,1,7,7,7,7,7,7,4,2,2,2,2,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,N/A,7,7,1,5,6,7,7,6,7,1,6,6,7,6,3,2,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,12,Yes,N/A,6,6,2,6,7,6,6,5,6,3,6,6,6,6,5,3,5
+Organization,,N/A,In-house software developer,Individual product,Both,14,Yes,N/A,7,7,2,5,7,7,7,1,6,4,4,4,4,3,1,4,6
+Organization,,Yes,In-house software developer,Many projects,Both,5,Yes,Yes,7,7,4,7,4,5,4,4,6,2,4,7,5,5,1,4,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,7,Yes,N/A,6,7,2,7,5,4,5,7,6,1,6,6,5,7,3,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,5,7,5,6,7,3,3,5,7,1,6,6,4,5,5,5,6
+Organization,,No,In-house software developer,Many projects,Both,6,No,No,3,3,3,4,4,4,3,1,3,3,3,6,2,1,6,6,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,10,Yes,N/A,7,7,1,6,7,5,7,3,5,5,5,7,4,5,3,3,7
+Myself,,Yes,In-house software developer,Many projects,Maintaining existing applications,30,Yes,Yes,7,7,1,7,7,7,7,6,5,4,5,6,5,3,3,3,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,No,Yes,6,7,7,5,7,5,3,4,6,6,6,5,4,2,5,7,6
+Organization,,Yes,In-house software developer,Individual product,Both,11,Yes,N/A,7,6,2,6,7,6,5,4,7,5,4,5,4,5,2,6,5
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,5,No,Yes,7,7,2,7,1,7,7,1,7,7,5,1,1,1,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,25,Yes,N/A,6,6,3,6,6,6,6,4,4,4,4,4,4,2,2,5,6
+Organization,,No,In-house software developer,Many projects,Creating new greenfield applications,5,No,Yes,7,7,4,7,7,7,7,3,7,7,3,3,3,2,1,1,3
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,Yes,7,7,1,6,7,7,7,5,7,4,4,4,4,7,5,5,6
+Organization,,N/A,Software Development Consultancy,Individual product,Both,5,Yes,N/A,7,7,4,7,7,7,7,3,7,4,5,5,5,2,4,4,4
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,15,Yes,N/A,7,7,2,7,7,6,7,7,6,1,7,7,7,5,3,3,7
+Organization,,Yes,N/A,Many projects,Both,20,Yes,N/A,5,4,2,5,6,4,5,4,5,3,5,4,5,5,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,7,7,2,6,6,6,4,7,5,1,5,7,3,7,5,4,7
+Organization,,Yes,N/A,Individual product,Both,17,No,No,4,4,5,5,4,3,4,2,5,4,3,5,4,5,1,3,6
+Organization,,No,In-house software developer,Individual product,Both,10,No,Yes,6,6,5,6,6,6,6,4,5,2,6,6,6,4,4,4,3
+Organization,,Yes,In-house software developer,Individual product,Both,7,Yes,N/A,6,6,4,6,6,5,5,4,6,5,4,4,4,4,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,17,No,Yes,4,7,1,6,7,1,4,4,6,4,6,6,6,1,1,6,1
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,7,7,1,7,6,6,7,2,6,4,3,4,2,3,1,3,7
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,35,Yes,N/A,6,6,2,5,7,6,7,6,6,2,7,7,7,6,5,6,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,11,Yes,N/A,7,7,1,7,7,7,7,4,7,3,3,3,3,5,7,7,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,8,Yes,N/A,5,5,2,5,5,6,5,7,6,1,4,4,4,6,2,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,N/A,6,7,2,6,7,5,6,3,6,3,5,5,4,5,2,2,6
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,18,Yes,Yes,6,6,2,5,6,5,5,2,4,2,4,4,4,3,5,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Both,14,Yes,N/A,6,7,6,6,7,6,7,4,6,4,6,6,5,2,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,21,Yes,N/A,6,7,4,6,5,4,6,4,6,4,5,6,6,6,5,6,5
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,30,Yes,N/A,4,4,2,6,2,6,2,6,6,1,2,6,6,6,2,6,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,5,Yes,N/A,6,7,2,5,6,5,7,5,5,3,6,6,6,5,2,2,5
+Organization,,Yes,In-house software developer,Many projects,Both,9,Yes,N/A,7,7,5,7,7,6,6,6,7,4,5,6,4,1,5,7,7
+Organization,,Yes,In-house software developer,Many projects,Both,7,Yes,Yes,5,7,4,6,6,4,6,4,7,6,6,6,6,2,3,2,6
+Organization,,Yes,In-house software developer,Individual product,Both,7,No,Yes,6,5,2,5,7,6,7,4,4,4,5,5,5,4,5,5,5
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,6,7,2,7,6,4,6,3,6,5,3,4,5,6,5,5,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,4,Yes,Yes,7,7,4,6,5,7,7,7,4,5,4,4,6,6,2,3,7
+Organization,,Yes,In-house software developer,Many projects,Both,15,Yes,N/A,7,7,2,5,7,5,7,7,7,2,7,4,7,7,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,5,Yes,N/A,5,5,7,7,4,4,7,1,7,1,4,7,7,7,5,5,3
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,1,7,7,7,7,3,7,6,5,5,5,3,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,14,Yes,N/A,7,7,2,7,7,7,4,4,4,5,5,5,5,6,3,3,5
+Organization,,Yes,Software Development Consultancy,Individual product,Maintaining existing applications,3,No,Yes,6,5,4,6,6,6,5,2,3,4,5,2,5,2,7,6,4
+Organization,,Yes,In-house software developer,Many projects,Both,6,No,Yes,6,6,2,7,7,6,7,4,7,4,4,4,4,1,5,5,5
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,2,Yes,N/A,7,7,5,7,7,7,7,7,7,2,5,5,7,3,1,1,7
+Organization,,Yes,In-house software developer,Many projects,Both,17,Yes,N/A,5,6,2,4,4,5,4,5,4,2,5,5,5,6,5,6,6
+Organization,,Yes,Software Development Consultancy,Individual product,Creating new greenfield applications,7,Yes,Yes,7,7,1,6,7,7,7,1,7,4,7,7,7,7,3,5,7
+Organization,,Yes,In-house software developer,Individual product,Both,5,Yes,N/A,7,7,3,7,7,5,5,5,3,3,7,7,6,6,5,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,N/A,6,6,2,5,7,6,6,4,5,3,5,5,5,5,4,5,6
+Organization,,Yes,In-house software developer,Many projects,Both,20,No,No,2,2,7,3,3,2,2,4,6,4,4,4,4,5,6,6,4
+Organization,,Yes,In-house software developer,Many projects,Both,20,Yes,N/A,6,5,4,5,6,4,6,5,6,3,5,6,6,5,5,6,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,2,Yes,N/A,7,7,1,7,7,5,7,2,7,6,5,4,4,1,2,2,5
+Organization,,Yes,In-house software developer,Individual product,Both,15,Yes,Yes,6,6,2,5,5,5,6,2,5,6,2,2,2,5,4,2,6
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,5,No,No,3,3,3,3,3,3,3,4,3,3,5,5,5,5,1,1,1
+Organization,,Yes,In-house software developer,Many projects,Both,10,Yes,N/A,7,7,1,7,7,6,7,5,7,2,7,7,7,7,3,5,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,12,Yes,N/A,7,7,1,7,7,7,7,2,7,7,3,2,4,1,7,7,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,6,No,No,6,5,5,5,5,3,3,4,5,1,6,5,5,4,1,2,7
+Myself,,N/A,N/A,Individual product,Creating new greenfield applications,7,Yes,N/A,7,6,2,3,6,6,6,6,6,4,4,4,4,4,2,1,5
+Organization,,N/A,Software Development Consultancy,Many projects,Maintaining existing applications,10,No,Yes,7,6,4,6,7,6,7,4,3,7,5,4,4,5,2,6,3
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,5,3,6,7,4,6,6,5,1,6,6,6,4,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,No,Yes,7,7,1,6,7,6,7,2,7,5,2,5,2,1,4,1,6
+Organization,,No,In-house software developer,Individual product,Both,6,No,Yes,7,7,3,7,6,5,7,1,7,7,4,3,3,3,2,2,2
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,20,Yes,Yes,6,5,2,5,6,5,6,5,5,1,4,4,4,2,4,1,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,20,Yes,N/A,6,6,2,6,6,4,5,7,6,2,5,5,5,6,6,7,6
+Organization,,Yes,In-house software developer,Individual product,Both,1,No,Yes,7,7,1,6,5,5,4,2,6,5,4,4,4,3,5,5,5
+Organization,,Yes,In-house software developer,Many projects,Both,4,Yes,N/A,7,7,1,6,6,5,6,7,4,2,6,6,6,6,1,1,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,6,6,2,5,4,6,6,4,5,2,4,4,4,5,5,5,6
+Organization,,Yes,Software Development Consultancy,Many projects,Both,22,Yes,N/A,7,7,1,7,7,7,7,1,7,7,4,5,4,1,1,4,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,7,Yes,N/A,7,7,1,6,7,6,6,7,6,1,6,6,5,6,5,5,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,20,Yes,N/A,6,6,5,6,5,5,3,5,3,2,5,5,5,6,5,5,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,6,6,2,6,6,5,6,4,6,4,5,5,5,3,5,4,6
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,6,Yes,N/A,6,6,5,5,4,4,3,2,6,5,3,5,2,3,4,4,6
+Organization,,No,Software Development Consultancy,Many projects,Creating new greenfield applications,10,Yes,Yes,7,7,4,5,7,7,7,7,6,7,1,4,7,2,1,6,6
+,University Research & youtube.com/letsdeveloper,Yes,N/A,Many projects,Both,15,Yes,N/A,7,7,2,6,5,5,6,3,7,6,5,5,5,7,5,4,7
+Organization,,Yes,In-house software developer,Many projects,Maintaining existing applications,15,Yes,N/A,7,7,1,7,7,5,5,7,7,5,6,7,5,6,3,3,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,30,No,No,4,3,5,3,1,1,1,2,3,1,2,2,1,1,1,5,5
+Organization,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,13,Yes,N/A,6,6,7,5,4,4,4,6,5,3,5,5,5,6,7,7,7
+Organization,,Yes,In-house software developer,Many projects,Both,8,Yes,N/A,5,5,3,6,6,5,1,5,4,2,5,5,5,2,7,7,6
+Organization,,Yes,In-house software developer,Many projects,Both,28,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,1,7
+Organization,,No,In-house software developer,Individual product,Maintaining existing applications,6,No,Yes,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Organization,,Yes,In-house software developer,Individual product,Both,8,Yes,N/A,6,7,4,6,4,6,7,4,4,4,7,7,7,7,3,7,7
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,12,Yes,N/A,7,7,2,6,6,4,4,5,5,4,2,5,3,1,2,2,7
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,N/A,6,6,2,5,5,6,5,4,6,4,4,4,4,7,2,1,6
+Organization,,Yes,In-house software developer,Individual product,Both,10,Yes,Yes,5,7,3,7,3,4,3,4,5,3,6,6,7,4,3,4,6
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,10,Yes,Yes,6,6,2,7,6,4,5,7,6,1,6,7,6,7,6,2,6
+Myself,,Yes,Software Development Consultancy,Many projects,Maintaining existing applications,15,Yes,N/A,7,7,2,6,7,5,6,4,5,4,5,4,4,5,7,6,7
+Organization,,Yes,In-house software developer,Many projects,Both,7,Yes,N/A,7,7,1,7,7,4,5,2,7,4,2,2,1,1,2,1,5
+Organization,,Yes,Software Development Consultancy,Many projects,Creating new greenfield applications,15,No,No,5,6,5,5,1,1,1,3,7,5,4,5,5,3,1,2,7
+Organization,,N/A,Software Development Consultancy,Many projects,Both,5,No,Yes,6,6,2,5,7,4,6,1,6,6,4,3,2,5,5,4,3
+Organization,,N/A,In-house software developer,Many projects,Creating new greenfield applications,10,No,Yes,7,7,2,7,7,7,7,2,6,4,4,4,4,2,3,5,2
+Organization,,Yes,In-house software developer,Individual product,Creating new greenfield applications,2,Yes,Yes,7,7,3,7,7,7,6,1,7,4,4,5,5,1,7,3,7
+Organization,,Yes,In-house software developer,Many projects,Creating new greenfield applications,35,No,Yes,7,7,3,7,7,5,7,2,7,5,5,5,7,5,2,3,7
+Organization,,No,Software Development Consultancy,Individual product,Maintaining existing applications,8,Yes,N/A,7,7,1,7,7,7,7,2,7,3,4,6,4,4,5,5,6
+Myself,,N/A,N/A,Many projects,Both,2,Yes,N/A,7,7,2,7,7,6,7,7,7,2,7,7,7,7,6,5,6
+Myself,,N/A,N/A,Individual product,Both,10,Yes,N/A,7,5,3,5,7,4,7,6,7,2,6,6,6,6,4,4,7
+Organization,,Yes,Software Development Consultancy,Many projects,Both,17,Yes,N/A,7,7,1,7,7,7,7,7,7,1,7,7,7,7,4,1,7
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,1,Yes,N/A,7,7,1,7,7,7,7,3,7,5,5,5,5,7,3,5,6
+Organization,,Yes,In-house software developer,Individual product,Maintaining existing applications,10,Yes,N/A,7,7,1,7,7,7,7,5,3,2,5,5,4,5,2,1,7
+Myself,,N/A,Software Development Consultancy,Many projects,Both,8,No,Yes,7,7,2,6,7,7,7,1,6,4,2,2,2,1,5,5,6
+Organization,,Yes,Software Development Consultancy,Individual product,Both,20,No,No,5,5,6,5,6,3,5,4,6,4,4,4,4,2,5,5,2
