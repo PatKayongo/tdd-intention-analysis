@@ -1,35 +1,39 @@
+cat("\n ==== READ AND PREPARE DATA ====")
 
 # LOAD DATA IN VARIABLE results
 
+cat("\n Loading data file")
 results <- read.csv("data.csv", sep=",")
+cat("\n Data file loaded")
 
 # RECODING OF VARIABLES
 
-# create variable for intention
+cat("\n Create variable for intention")
 results$Intention <- NA
 results$Intention  <- with(results, ifelse(PracticeTDD=='Yes', 1, ifelse(WantTDD== 'Yes', 1, 0)))
 
 # load car package to use recode function
-if("car" %in% rownames(installed.packages()) == FALSE) {
-  install.packages("car")
-}
-
 library("car")
 
-# record attitude time variable
+cat("\n Recode attitude time variable")
 results$AttitudeTimeOriginal <- results$AttitudeTime
 results$AttitudeTime <- recode(results$AttitudeTimeOriginal, "1=7;2=6;3=5;4=4;5=3;6=2;7=1")
 
-#recode subjective norm time variable
+cat("\n Recode subjective norm time variable")
 results$SubjectiveNormTimeOriginal <- results$SubjectiveNormTime
 results$SubjectiveNormTime <- recode(results$SubjectiveNormTimeOriginal, "1=7;2=6;3=5;4=4;5=3;6=2;7=1")
 
+cat("\n Combine SubjectiveNorm variables into one")
 results$SubjectiveNorm <- NA
 results$SubjectiveNorm <- with(results, (SubjectiveNorm1 + SubjectiveNorm2)/2)
 
+cat("\n Combine Attitude-Quality variables into one")
 results$AttitudeQuality <- NA
 results$AttitudeQuality <- with(results, (AttitudeQuality1 + AttitudeQuality2)/2)
 
 # OUTPUT RESULTS TO A FILE
 
+cat("\n Output the results to results.csv")
 write.csv(results, file = "results.csv")
+
+cat("\n")
