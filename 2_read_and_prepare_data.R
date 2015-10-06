@@ -13,7 +13,7 @@ results$Intention <- NA
 results$Intention  <- with(results, ifelse(PracticeTDD=='Yes', 1, ifelse(WantTDD== 'Yes', 1, 0)))
 
 # load car package to use recode function
-library("car")
+
 
 cat("\n Recode attitude time variable")
 results$AttitudeTimeOriginal <- results$AttitudeTime
@@ -35,5 +35,8 @@ results$AttitudeQuality <- with(results, (AttitudeQuality1 + AttitudeQuality2)/2
 
 cat("\n Output the results to results.csv")
 write.csv(results, file = "results.csv")
+
+numericVariableNames <- c("YearsExperience", "Attitude","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability","SubjectiveNorm1", "SubjectiveNorm2", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience","Intention")
+numericData <- results[numericVariableNames]
 
 cat("\n")
