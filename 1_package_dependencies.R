@@ -15,6 +15,13 @@ if("psych" %in% rownames(installed.packages()) == FALSE) {
 }
 
 cat('\n Load psych package')
-library(psych)
+library("psych")
+
+if("sem" %in% rownames(installed.packages()) == FALSE) {
+  install.packages("sem", repos = "https://cran.uni-muenster.de")
+  cat("\n Installed 'sem' package")
+}
+
+cat('\n Load sem package')
 
 cat("\n")

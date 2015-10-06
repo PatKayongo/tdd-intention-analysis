@@ -23,6 +23,14 @@ cat("\n Recode subjective norm time variable")
 results$SubjectiveNormTimeOriginal <- results$SubjectiveNormTime
 results$SubjectiveNormTime <- recode(results$SubjectiveNormTimeOriginal, "1=7;2=6;3=5;4=4;5=3;6=2;7=1")
 
+cat("\n Recode unit test difficulty variable")
+results$UnitTestDifficultyOriginal <- results$UnitTestDifficulty
+results$UnitTestDifficulty <- recode(results$UnitTestDifficultyOriginal, "1=7;2=6;3=5;4=4;5=3;6=2;7=1")
+
+cat("\n Recode TDD difficulty variable")
+results$TDDDifficultyOriginal <- results$TDDDifficulty
+results$TDDDifficulty <- recode(results$TDDDifficultyOriginal, "1=7;2=6;3=5;4=4;5=3;6=2;7=1")
+
 cat("\n Combine SubjectiveNorm variables into one")
 results$SubjectiveNorm <- NA
 results$SubjectiveNorm <- with(results, (SubjectiveNorm1 + SubjectiveNorm2)/2)
