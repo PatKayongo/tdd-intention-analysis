@@ -24,4 +24,7 @@ if("sem" %in% rownames(installed.packages()) == FALSE) {
 
 cat('\n Load sem package')
 
+
+library(plyr)
+
 cat("\n")
