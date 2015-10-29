@@ -47,4 +47,7 @@ write.csv(results, file = "results.csv")
 numericVariableNames <- c("YearsExperience", "Attitude","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability","SubjectiveNorm1", "SubjectiveNorm2", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience","Intention")
 numericData <- results[numericVariableNames]
 
+ordinalVariableNames <- c("Attitude","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability","SubjectiveNorm1", "SubjectiveNorm2", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience")
+ordinalData <- results[ordinalVariableNames]
+
 cat("\n")
