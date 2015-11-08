@@ -33,21 +33,54 @@ results$TDDDifficulty <- recode(results$TDDDifficultyOriginal, "1=7;2=6;3=5;4=4;
 
 cat("\n Combine SubjectiveNorm variables into one")
 results$SubjectiveNorm <- NA
-results$SubjectiveNorm <- with(results, (SubjectiveNorm1 + SubjectiveNorm2)/2)
+results$SubjectiveNorm <- with(results, ifelse(OrganizationVsSelf=='Organization', SubjectiveNorm1, SubjectiveNorm2))
 
 cat("\n Combine Attitude-Quality variables into one")
 results$AttitudeQuality <- NA
-results$AttitudeQuality <- with(results, (AttitudeQuality1 + AttitudeQuality2)/2)
+results$AttitudeQuality <- results$AttitudeQuality1
 
 # OUTPUT RESULTS TO A FILE
 
 cat("\n Output the results to results.csv")
 write.csv(results, file = "results.csv")
 
-numericVariableNames <- c("YearsExperience", "Attitude","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability","SubjectiveNorm1", "SubjectiveNorm2", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience","Intention")
+numericVariableNames <- c(
+  "YearsExperience",
+  "Attitude",
+  "AttitudeQuality1",
+  "AttitudeQuality2",
+  "AttitudeTime",
+  "AttitudeMaintainability",
+  "AttitudeEfficiency",
+  "AttitudeChangeability",
+  "SubjectiveNorm1",
+  "SubjectiveNorm2",
+  "SubjectiveNormTime",
+  "SubjectiveNormMaintainability",
+  "SubjectiveNormQuality",
+  "SubjectiveNormChangeability",
+  "TeamTDD","UnitTestDifficulty",
+  "TDDDifficulty",
+  "TDDExperience",
+  "Intention")
 numericData <- results[numericVariableNames]
 
-ordinalVariableNames <- c("Attitude","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability","SubjectiveNorm1", "SubjectiveNorm2", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience")
+ordinalVariableNames <- c(
+  "Attitude",
+  "AttitudeQuality",
+  "AttitudeTime" ,
+  "AttitudeMaintainability",
+  "AttitudeEfficiency",
+  "AttitudeChangeability",
+  "SubjectiveNorm",
+  "SubjectiveNormTime",
+  "SubjectiveNormMaintainability",
+  "SubjectiveNormQuality",
+  "SubjectiveNormChangeability",
+  "TeamTDD",
+  "UnitTestDifficulty",
+  "TDDDifficulty",
+  "TDDExperience")
 ordinalData <- results[ordinalVariableNames]
 
 cat("\n")
