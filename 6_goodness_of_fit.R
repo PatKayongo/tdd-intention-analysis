@@ -24,29 +24,25 @@ ordinalChiSquareTest <- function(variable1, variable2, fileName) {
   contingencyTable2 <- combineTableOrdinalRows(contingencyTable1)
 
   fullFileName <- paste('ChiSquareTests/', fileName, '.txt', sep="")
-
-  cat(fileName,
-    capture.output(contingencyTable2),
-    file=fullFileName)
+  cat(fullFileName);
+  write.csv(contingencyTable2, file=paste('ChiSquareTests/', fileName, '.csv', sep=""))
 
   cat(fileName,
     capture.output(chisq.test(contingencyTable2)),
-    file=fullFileName, append=TRUE)
+    file=fullFileName)
 }
 
 ordinalAndBinaryChiSquareTest <- function(oridinalMeasure, binaryMeasure, fileName) {
   tableData <- table(binaryMeasure, oridinalMeasure)
   contingencyTable <- combineTableOrdinalColumns(tableData)
 
-fullFileName <- paste('ChiSquareTests/', fileName, '.txt', sep="")
-
-  cat(fileName,
-    capture.output(contingencyTable),
-    file=fullFileName)
+  fullFileName <- paste('ChiSquareTests/', fileName, '.txt', sep="")
+  cat(fullFileName)
+  write.csv(contingencyTable, file=paste('ChiSquareTests/', fileName, '.csv', sep=""))
 
   cat(fileName,
     capture.output(chisq.test(contingencyTable)),
-    file=fullFileName, append=TRUE)
+    file=fullFileName)
 }
 
 ordinalChiSquareTest(ordinalData$AttitudeTime, ordinalData$Attitude, 'AttitudeTimeVsAttitude')
