@@ -83,4 +83,8 @@ ordinalVariableNames <- c(
   "TDDExperience")
 ordinalData <- results[ordinalVariableNames]
 
+for (i in names(ordinalData)) {
+  ordinalData[[i]] <- as.factor(ordinalData[[i]])
+}
+
 cat("\n")

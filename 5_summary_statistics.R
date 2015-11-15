@@ -25,4 +25,6 @@ for (name in ordinalVariableNames) {
 
 write.csv(data.frame(ordinalVariableNames, ordinalDataModes), file="Summary/modes.csv", row.names=FALSE)
 
+write.csv(ordinalData, file="Summary/ordinal_data.csv")
+
 cat("\n")
