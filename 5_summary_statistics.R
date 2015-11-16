@@ -9,7 +9,8 @@ cat("\n Compute standard deviations and write computed standard deviations to Su
 write.csv(sapply(numericData, sd, na.rm=FALSE), file="Summary/standardDeviations.csv")
 
 cat("\n Compute correlations and write computed correlations to Summary/correlations.csv")
-write.csv(cor(numericData), file="Summary/correlations.csv")
+library(polycor)
+#write.csv(polychor(numericData), file="Summary/correlations.csv")
 
 cat("\n Compute and write summary statistics to Summary/summary_statistics.csv")
 write.csv(describe(numericData), file="Summary/summary_statistics.csv")

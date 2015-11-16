@@ -2,7 +2,23 @@ cat("\n ==== FACTOR ANALYSIS ====")
 
 dir.create("FactorAnalysis", showWarnings = FALSE)
 
-measures <- numericData[c("YearsExperience","AttitudeQuality1", "AttitudeQuality2", "AttitudeTime","AttitudeMaintainability","AttitudeEfficiency","AttitudeChangeability", "SubjectiveNormTime","SubjectiveNormMaintainability","SubjectiveNormQuality","SubjectiveNormChangeability","TeamTDD","UnitTestDifficulty","TDDDifficulty","TDDExperience")]
+
+
+measures <- numericData[c(
+  "YearsExperience",
+  "AttitudeQuality",
+  "AttitudeTime",
+  "AttitudeMaintainability",
+  "AttitudeEfficiency",
+  "AttitudeChangeability",
+  "SubjectiveNormTime",
+  "SubjectiveNormMaintainability",
+  "SubjectiveNormQuality",
+  "SubjectiveNormChangeability",
+  "TeamTDD",
+  "UnitTestDifficulty",
+  "TDDDifficulty",
+  "TDDExperience")]
 
 cat("\n Computing the principal component analysis")
 correlationMatrix <- cor(measures)

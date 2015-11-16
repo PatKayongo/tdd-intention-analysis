@@ -21,4 +21,19 @@ sink('Reliability/subjective_norm_ordinal_alpha.txt')
 print(alpha(subjectiveNormPolychoricCorrelationMatrix$rho))
 sink()
 
+cat("\n Compute ordinal alpha for Attitude Reliability/attitude_ordinal_alpha.txt")
+
+attitudeData <- data.frame(
+  numericData$AttitudeQuality,
+  numericData$AttitudeTime,
+  numericData$AttitudeEfficiency,
+  numericData$AttitudeMaintainability,
+  numericData$AttitudeChangeability)
+
+attitudePolychoricCorrelationMatrix <- polychoric(attitudeData)
+
+sink('Reliability/attitude_ordinal_alpha.txt')
+print(alpha(attitudePolychoricCorrelationMatrix$rho))
+sink()
+
 cat("\n")

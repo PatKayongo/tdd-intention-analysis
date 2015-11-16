@@ -47,6 +47,7 @@ write.csv(results, file = "results.csv")
 numericVariableNames <- c(
   "YearsExperience",
   "Attitude",
+  "AttitudeQuality",
   "AttitudeQuality1",
   "AttitudeQuality2",
   "AttitudeTime",

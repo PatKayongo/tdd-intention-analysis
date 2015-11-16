@@ -9,6 +9,18 @@ if("car" %in% rownames(installed.packages()) == FALSE) {
 cat('\n Load car package')
 library("car")
 
+if("sem" %in% rownames(installed.packages()) == FALSE) {
+  install.packages("sem", repos = "https://cran.uni-muenster.de")
+  cat("\n Installed 'sem' package")
+}
+
+if("polycor" %in% rownames(installed.packages()) == FALSE) {
+  install.packages("polycor", repos = "https://cran.uni-muenster.de")
+  cat("\n Installed 'polycor' package")
+}
+
+library(plyr)
+
 if("psych" %in% rownames(installed.packages()) == FALSE) {
   install.packages(c("psych","GPArotation","MASS"), repos = "https://cran.uni-muenster.de")
   cat("\n Installed 'psych' package")
@@ -16,15 +28,5 @@ if("psych" %in% rownames(installed.packages()) == FALSE) {
 
 cat('\n Load psych package')
 library("psych")
-
-if("sem" %in% rownames(installed.packages()) == FALSE) {
-  install.packages("sem", repos = "https://cran.uni-muenster.de")
-  cat("\n Installed 'sem' package")
-}
-
-cat('\n Load sem package')
-
-
-library(plyr)
 
 cat("\n")
