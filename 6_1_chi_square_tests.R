@@ -1,6 +1,5 @@
-cat("\n ==== GOODNESS OF FIT ====")
 
-dir.create("ChiSquareTests", showWarnings = FALSE)
+dir.create("GoodnessOfFit/ChiSquareTests", showWarnings = FALSE)
 
 combineTableOrdinalColumns <- function(tableData) {
   combinedColumns <- cbind(
@@ -23,9 +22,9 @@ ordinalChiSquareTest <- function(variable1, variable2, fileName) {
   contingencyTable1 <- combineTableOrdinalColumns(tableData)
   contingencyTable2 <- combineTableOrdinalRows(contingencyTable1)
 
-  fullFileName <- paste('ChiSquareTests/', fileName, '.txt', sep="")
+  fullFileName <- paste('GoodnessOfFit/ChiSquareTests/', fileName, '.txt', sep="")
   cat(fullFileName);
-  write.csv(contingencyTable2, file=paste('ChiSquareTests/', fileName, '.csv', sep=""))
+  write.csv(contingencyTable2, file=paste('GoodnessOfFit/ChiSquareTests/', fileName, '.csv', sep=""))
 
   cat(fileName,
     capture.output(chisq.test(contingencyTable2)),
@@ -36,9 +35,9 @@ ordinalAndBinaryChiSquareTest <- function(oridinalMeasure, binaryMeasure, fileNa
   tableData <- table(binaryMeasure, oridinalMeasure)
   contingencyTable <- combineTableOrdinalColumns(tableData)
 
-  fullFileName <- paste('ChiSquareTests/', fileName, '.txt', sep="")
+  fullFileName <- paste('GoodnessOfFit/ChiSquareTests/', fileName, '.txt', sep="")
   cat(fullFileName)
-  write.csv(contingencyTable, file=paste('ChiSquareTests/', fileName, '.csv', sep=""))
+  write.csv(contingencyTable, file=paste('GoodnessOfFit/ChiSquareTests/', fileName, '.csv', sep=""))
 
   cat(fileName,
     capture.output(chisq.test(contingencyTable)),
@@ -56,6 +55,3 @@ ordinalAndBinaryChiSquareTest(ordinalData$SubjectiveNorm, numericData$Intention,
 
 ordinalAndBinaryChiSquareTest(ordinalData$UnitTestDifficulty, numericData$Intention, 'UnitTestDifficultyVsIntention')
 ordinalAndBinaryChiSquareTest(ordinalData$TDDDifficulty, numericData$Intention, 'TDDDifficultyVsIntention')
-
-
-cat("\n")
