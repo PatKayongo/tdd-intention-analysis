@@ -54,6 +54,7 @@ numericVariableNames <- c(
   "AttitudeMaintainability",
   "AttitudeEfficiency",
   "AttitudeChangeability",
+  "SubjectiveNorm",
   "SubjectiveNorm1",
   "SubjectiveNorm2",
   "SubjectiveNormTime",
