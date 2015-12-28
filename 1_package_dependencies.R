@@ -9,11 +9,6 @@ if("car" %in% rownames(installed.packages()) == FALSE) {
 cat('\n Load car package')
 library("car")
 
-if("sem" %in% rownames(installed.packages()) == FALSE) {
-  install.packages("sem", repos = "https://cran.uni-muenster.de")
-  cat("\n Installed 'sem' package")
-}
-
 if("polycor" %in% rownames(installed.packages()) == FALSE) {
   install.packages("polycor", repos = "https://cran.uni-muenster.de")
   cat("\n Installed 'polycor' package")

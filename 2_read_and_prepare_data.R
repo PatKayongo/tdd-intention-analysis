@@ -84,6 +84,18 @@ ordinalVariableNames <- c(
   "TDDExperience")
 ordinalData <- results[ordinalVariableNames]
 
+condensedOrdinalData <- ordinalData
+
+for (i in names(condensedOrdinalData)) {
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 1] = 1
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 2] = 1
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 3] = 1
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 4] = 2
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 5] = 3
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 6] = 3
+    condensedOrdinalData[[i]][condensedOrdinalData[[i]] == 7] = 3
+}
+
 for (i in names(ordinalData)) {
   ordinalData[[i]] <- as.factor(ordinalData[[i]])
 }
