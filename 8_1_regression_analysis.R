@@ -12,7 +12,7 @@ cat("\n Creating regression folder")
 dir.create("HypothesisTesting/Regression", showWarnings = FALSE)
 
 cat("\n Performing subjective norm regression")
-SubjectiveNormLogisticRegressionResults <- polr(SubjectiveNorm ~ SubjectiveNormTime + SubjectiveNormQuality, data = ordinalData, Hess=TRUE)
+SubjectiveNormLogisticRegressionResults <- polr(SubjectiveNorm ~ SubjectiveNormTime + SubjectiveNormQuality + SubjectiveNormMaintainability, data = ordinalData, Hess=TRUE)
 subjectiveNormCoefficients <- coef(summary(SubjectiveNormLogisticRegressionResults))
 subjectiveNormPValues <- pnorm(abs(subjectiveNormCoefficients[, "t value"]), lower.tail = FALSE) * 2
 

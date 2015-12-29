@@ -47,6 +47,7 @@ ordinalAndBinaryChiSquareTest <- function(oridinalMeasure, binaryMeasure, fileNa
 ordinalChiSquareTest(ordinalData$AttitudeTime, ordinalData$Attitude, 'AttitudeTimeVsAttitude')
 ordinalChiSquareTest(ordinalData$AttitudeQuality, ordinalData$Attitude, 'AttitudeQualityVsAttitude')
 ordinalChiSquareTest(ordinalData$AttitudeEfficiency, ordinalData$Attitude, 'AttitudeEfficiencyVsAttitude')
+ordinalChiSquareTest(ordinalData$AttitudeMaintainability, ordinalData$Attitude, 'AttitudeMaintainabilityVsAttitude')
 ordinalAndBinaryChiSquareTest(ordinalData$Attitude, numericData$Intention, 'AttitudeVsIntention')
 
 ordinalChiSquareTest(ordinalData$SubjectiveNormTime, ordinalData$SubjectiveNorm, 'SubjectiveNormTimeVsSubjectiveNorm')
